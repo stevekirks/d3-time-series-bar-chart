@@ -1,0 +1,10502 @@
+[
+  {
+    "timestamp": "0:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 0
+      },
+      {
+        "name": "d3",
+        "value": 0
+      },
+      {
+        "name": "d4",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "0:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 3
+      },
+      {
+        "name": "d3",
+        "value": 1
+      },
+      {
+        "name": "d4",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": "0:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 6
+      },
+      {
+        "name": "d3",
+        "value": 2
+      },
+      {
+        "name": "d4",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "0:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 9
+      },
+      {
+        "name": "d3",
+        "value": 3
+      },
+      {
+        "name": "d4",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "timestamp": "0:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 12
+      },
+      {
+        "name": "d3",
+        "value": 4
+      },
+      {
+        "name": "d4",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "timestamp": "0:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1
+      },
+      {
+        "name": "d2",
+        "value": 15
+      },
+      {
+        "name": "d3",
+        "value": 5
+      },
+      {
+        "name": "d4",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "0:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1
+      },
+      {
+        "name": "d2",
+        "value": 18
+      },
+      {
+        "name": "d3",
+        "value": 6
+      },
+      {
+        "name": "d4",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "timestamp": "0:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 2
+      },
+      {
+        "name": "d2",
+        "value": 21
+      },
+      {
+        "name": "d3",
+        "value": 7
+      },
+      {
+        "name": "d4",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "timestamp": "0:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 3
+      },
+      {
+        "name": "d2",
+        "value": 24
+      },
+      {
+        "name": "d3",
+        "value": 8
+      },
+      {
+        "name": "d4",
+        "value": 16
+      }
+    ]
+  },
+  {
+    "timestamp": "0:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 4
+      },
+      {
+        "name": "d2",
+        "value": 27
+      },
+      {
+        "name": "d3",
+        "value": 9
+      },
+      {
+        "name": "d4",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "timestamp": "0:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 5
+      },
+      {
+        "name": "d2",
+        "value": 30
+      },
+      {
+        "name": "d3",
+        "value": 10
+      },
+      {
+        "name": "d4",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "timestamp": "0:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 6
+      },
+      {
+        "name": "d2",
+        "value": 33
+      },
+      {
+        "name": "d3",
+        "value": 11
+      },
+      {
+        "name": "d4",
+        "value": 22
+      }
+    ]
+  },
+  {
+    "timestamp": "0:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 7
+      },
+      {
+        "name": "d2",
+        "value": 36
+      },
+      {
+        "name": "d3",
+        "value": 12
+      },
+      {
+        "name": "d4",
+        "value": 24
+      }
+    ]
+  },
+  {
+    "timestamp": "0:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 8
+      },
+      {
+        "name": "d2",
+        "value": 39
+      },
+      {
+        "name": "d3",
+        "value": 13
+      },
+      {
+        "name": "d4",
+        "value": 26
+      }
+    ]
+  },
+  {
+    "timestamp": "0:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 10
+      },
+      {
+        "name": "d2",
+        "value": 42
+      },
+      {
+        "name": "d3",
+        "value": 14
+      },
+      {
+        "name": "d4",
+        "value": 28
+      }
+    ]
+  },
+  {
+    "timestamp": "0:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 11
+      },
+      {
+        "name": "d2",
+        "value": 45
+      },
+      {
+        "name": "d3",
+        "value": 15
+      },
+      {
+        "name": "d4",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "timestamp": "0:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 13
+      },
+      {
+        "name": "d2",
+        "value": 48
+      },
+      {
+        "name": "d3",
+        "value": 16
+      },
+      {
+        "name": "d4",
+        "value": 32
+      }
+    ]
+  },
+  {
+    "timestamp": "0:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 14
+      },
+      {
+        "name": "d2",
+        "value": 51
+      },
+      {
+        "name": "d3",
+        "value": 17
+      },
+      {
+        "name": "d4",
+        "value": 34
+      }
+    ]
+  },
+  {
+    "timestamp": "0:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 16
+      },
+      {
+        "name": "d2",
+        "value": 54
+      },
+      {
+        "name": "d3",
+        "value": 18
+      },
+      {
+        "name": "d4",
+        "value": 36
+      }
+    ]
+  },
+  {
+    "timestamp": "0:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 18
+      },
+      {
+        "name": "d2",
+        "value": 57
+      },
+      {
+        "name": "d3",
+        "value": 19
+      },
+      {
+        "name": "d4",
+        "value": 38
+      }
+    ]
+  },
+  {
+    "timestamp": "0:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 20
+      },
+      {
+        "name": "d2",
+        "value": 60
+      },
+      {
+        "name": "d3",
+        "value": 20
+      },
+      {
+        "name": "d4",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "timestamp": "0:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 22
+      },
+      {
+        "name": "d2",
+        "value": 63
+      },
+      {
+        "name": "d3",
+        "value": 21
+      },
+      {
+        "name": "d4",
+        "value": 42
+      }
+    ]
+  },
+  {
+    "timestamp": "0:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 24
+      },
+      {
+        "name": "d2",
+        "value": 66
+      },
+      {
+        "name": "d3",
+        "value": 22
+      },
+      {
+        "name": "d4",
+        "value": 44
+      }
+    ]
+  },
+  {
+    "timestamp": "0:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 26
+      },
+      {
+        "name": "d2",
+        "value": 69
+      },
+      {
+        "name": "d3",
+        "value": 23
+      },
+      {
+        "name": "d4",
+        "value": 46
+      }
+    ]
+  },
+  {
+    "timestamp": "0:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 29
+      },
+      {
+        "name": "d2",
+        "value": 72
+      },
+      {
+        "name": "d3",
+        "value": 24
+      },
+      {
+        "name": "d4",
+        "value": 48
+      }
+    ]
+  },
+  {
+    "timestamp": "0:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 31
+      },
+      {
+        "name": "d2",
+        "value": 75
+      },
+      {
+        "name": "d3",
+        "value": 25
+      },
+      {
+        "name": "d4",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "timestamp": "0:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 34
+      },
+      {
+        "name": "d2",
+        "value": 78
+      },
+      {
+        "name": "d3",
+        "value": 26
+      },
+      {
+        "name": "d4",
+        "value": 52
+      }
+    ]
+  },
+  {
+    "timestamp": "0:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 36
+      },
+      {
+        "name": "d2",
+        "value": 81
+      },
+      {
+        "name": "d3",
+        "value": 27
+      },
+      {
+        "name": "d4",
+        "value": 54
+      }
+    ]
+  },
+  {
+    "timestamp": "0:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 39
+      },
+      {
+        "name": "d2",
+        "value": 84
+      },
+      {
+        "name": "d3",
+        "value": 28
+      },
+      {
+        "name": "d4",
+        "value": 56
+      }
+    ]
+  },
+  {
+    "timestamp": "0:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 42
+      },
+      {
+        "name": "d2",
+        "value": 87
+      },
+      {
+        "name": "d3",
+        "value": 29
+      },
+      {
+        "name": "d4",
+        "value": 58
+      }
+    ]
+  },
+  {
+    "timestamp": "0:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 44
+      },
+      {
+        "name": "d2",
+        "value": 90
+      },
+      {
+        "name": "d3",
+        "value": 30
+      },
+      {
+        "name": "d4",
+        "value": 60
+      }
+    ]
+  },
+  {
+    "timestamp": "0:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 47
+      },
+      {
+        "name": "d2",
+        "value": 93
+      },
+      {
+        "name": "d3",
+        "value": 31
+      },
+      {
+        "name": "d4",
+        "value": 62
+      }
+    ]
+  },
+  {
+    "timestamp": "0:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 50
+      },
+      {
+        "name": "d2",
+        "value": 96
+      },
+      {
+        "name": "d3",
+        "value": 32
+      },
+      {
+        "name": "d4",
+        "value": 64
+      }
+    ]
+  },
+  {
+    "timestamp": "0:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 53
+      },
+      {
+        "name": "d2",
+        "value": 99
+      },
+      {
+        "name": "d3",
+        "value": 33
+      },
+      {
+        "name": "d4",
+        "value": 66
+      }
+    ]
+  },
+  {
+    "timestamp": "0:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 57
+      },
+      {
+        "name": "d2",
+        "value": 102
+      },
+      {
+        "name": "d3",
+        "value": 34
+      },
+      {
+        "name": "d4",
+        "value": 68
+      }
+    ]
+  },
+  {
+    "timestamp": "0:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 60
+      },
+      {
+        "name": "d2",
+        "value": 105
+      },
+      {
+        "name": "d3",
+        "value": 35
+      },
+      {
+        "name": "d4",
+        "value": 70
+      }
+    ]
+  },
+  {
+    "timestamp": "0:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 63
+      },
+      {
+        "name": "d2",
+        "value": 108
+      },
+      {
+        "name": "d3",
+        "value": 36
+      },
+      {
+        "name": "d4",
+        "value": 72
+      }
+    ]
+  },
+  {
+    "timestamp": "0:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 66
+      },
+      {
+        "name": "d2",
+        "value": 111
+      },
+      {
+        "name": "d3",
+        "value": 37
+      },
+      {
+        "name": "d4",
+        "value": 74
+      }
+    ]
+  },
+  {
+    "timestamp": "0:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 70
+      },
+      {
+        "name": "d2",
+        "value": 114
+      },
+      {
+        "name": "d3",
+        "value": 38
+      },
+      {
+        "name": "d4",
+        "value": 76
+      }
+    ]
+  },
+  {
+    "timestamp": "0:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 73
+      },
+      {
+        "name": "d2",
+        "value": 117
+      },
+      {
+        "name": "d3",
+        "value": 39
+      },
+      {
+        "name": "d4",
+        "value": 78
+      }
+    ]
+  },
+  {
+    "timestamp": "0:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 77
+      },
+      {
+        "name": "d2",
+        "value": 120
+      },
+      {
+        "name": "d3",
+        "value": 40
+      },
+      {
+        "name": "d4",
+        "value": 80
+      }
+    ]
+  },
+  {
+    "timestamp": "0:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 80
+      },
+      {
+        "name": "d2",
+        "value": 123
+      },
+      {
+        "name": "d3",
+        "value": 41
+      },
+      {
+        "name": "d4",
+        "value": 82
+      }
+    ]
+  },
+  {
+    "timestamp": "0:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 84
+      },
+      {
+        "name": "d2",
+        "value": 126
+      },
+      {
+        "name": "d3",
+        "value": 42
+      },
+      {
+        "name": "d4",
+        "value": 84
+      }
+    ]
+  },
+  {
+    "timestamp": "0:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 87
+      },
+      {
+        "name": "d2",
+        "value": 129
+      },
+      {
+        "name": "d3",
+        "value": 43
+      },
+      {
+        "name": "d4",
+        "value": 86
+      }
+    ]
+  },
+  {
+    "timestamp": "0:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 91
+      },
+      {
+        "name": "d2",
+        "value": 132
+      },
+      {
+        "name": "d3",
+        "value": 44
+      },
+      {
+        "name": "d4",
+        "value": 88
+      }
+    ]
+  },
+  {
+    "timestamp": "0:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 95
+      },
+      {
+        "name": "d2",
+        "value": 135
+      },
+      {
+        "name": "d3",
+        "value": 45
+      },
+      {
+        "name": "d4",
+        "value": 90
+      }
+    ]
+  },
+  {
+    "timestamp": "0:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 99
+      },
+      {
+        "name": "d2",
+        "value": 138
+      },
+      {
+        "name": "d3",
+        "value": 46
+      },
+      {
+        "name": "d4",
+        "value": 92
+      }
+    ]
+  },
+  {
+    "timestamp": "0:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 103
+      },
+      {
+        "name": "d2",
+        "value": 141
+      },
+      {
+        "name": "d3",
+        "value": 47
+      },
+      {
+        "name": "d4",
+        "value": 94
+      }
+    ]
+  },
+  {
+    "timestamp": "0:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 107
+      },
+      {
+        "name": "d2",
+        "value": 144
+      },
+      {
+        "name": "d3",
+        "value": 48
+      },
+      {
+        "name": "d4",
+        "value": 96
+      }
+    ]
+  },
+  {
+    "timestamp": "0:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 110
+      },
+      {
+        "name": "d2",
+        "value": 147
+      },
+      {
+        "name": "d3",
+        "value": 49
+      },
+      {
+        "name": "d4",
+        "value": 98
+      }
+    ]
+  },
+  {
+    "timestamp": "0:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 114
+      },
+      {
+        "name": "d2",
+        "value": 150
+      },
+      {
+        "name": "d3",
+        "value": 50
+      },
+      {
+        "name": "d4",
+        "value": 100
+      }
+    ]
+  },
+  {
+    "timestamp": "0:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 118
+      },
+      {
+        "name": "d2",
+        "value": 153
+      },
+      {
+        "name": "d3",
+        "value": 51
+      },
+      {
+        "name": "d4",
+        "value": 102
+      }
+    ]
+  },
+  {
+    "timestamp": "0:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 122
+      },
+      {
+        "name": "d2",
+        "value": 156
+      },
+      {
+        "name": "d3",
+        "value": 52
+      },
+      {
+        "name": "d4",
+        "value": 104
+      }
+    ]
+  },
+  {
+    "timestamp": "0:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 126
+      },
+      {
+        "name": "d2",
+        "value": 159
+      },
+      {
+        "name": "d3",
+        "value": 53
+      },
+      {
+        "name": "d4",
+        "value": 106
+      }
+    ]
+  },
+  {
+    "timestamp": "0:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 131
+      },
+      {
+        "name": "d2",
+        "value": 162
+      },
+      {
+        "name": "d3",
+        "value": 54
+      },
+      {
+        "name": "d4",
+        "value": 108
+      }
+    ]
+  },
+  {
+    "timestamp": "0:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 135
+      },
+      {
+        "name": "d2",
+        "value": 165
+      },
+      {
+        "name": "d3",
+        "value": 55
+      },
+      {
+        "name": "d4",
+        "value": 110
+      }
+    ]
+  },
+  {
+    "timestamp": "0:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 139
+      },
+      {
+        "name": "d2",
+        "value": 168
+      },
+      {
+        "name": "d3",
+        "value": 56
+      },
+      {
+        "name": "d4",
+        "value": 112
+      }
+    ]
+  },
+  {
+    "timestamp": "0:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 143
+      },
+      {
+        "name": "d2",
+        "value": 171
+      },
+      {
+        "name": "d3",
+        "value": 57
+      },
+      {
+        "name": "d4",
+        "value": 114
+      }
+    ]
+  },
+  {
+    "timestamp": "0:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 147
+      },
+      {
+        "name": "d2",
+        "value": 174
+      },
+      {
+        "name": "d3",
+        "value": 58
+      },
+      {
+        "name": "d4",
+        "value": 116
+      }
+    ]
+  },
+  {
+    "timestamp": "0:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 151
+      },
+      {
+        "name": "d2",
+        "value": 177
+      },
+      {
+        "name": "d3",
+        "value": 59
+      },
+      {
+        "name": "d4",
+        "value": 118
+      }
+    ]
+  },
+  {
+    "timestamp": "1:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 155
+      },
+      {
+        "name": "d2",
+        "value": 180
+      },
+      {
+        "name": "d3",
+        "value": 60
+      },
+      {
+        "name": "d4",
+        "value": 120
+      }
+    ]
+  },
+  {
+    "timestamp": "1:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 160
+      },
+      {
+        "name": "d2",
+        "value": 183
+      },
+      {
+        "name": "d3",
+        "value": 61
+      },
+      {
+        "name": "d4",
+        "value": 122
+      }
+    ]
+  },
+  {
+    "timestamp": "1:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 164
+      },
+      {
+        "name": "d2",
+        "value": 186
+      },
+      {
+        "name": "d3",
+        "value": 62
+      },
+      {
+        "name": "d4",
+        "value": 124
+      }
+    ]
+  },
+  {
+    "timestamp": "1:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 168
+      },
+      {
+        "name": "d2",
+        "value": 189
+      },
+      {
+        "name": "d3",
+        "value": 63
+      },
+      {
+        "name": "d4",
+        "value": 126
+      }
+    ]
+  },
+  {
+    "timestamp": "1:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 172
+      },
+      {
+        "name": "d2",
+        "value": 192
+      },
+      {
+        "name": "d3",
+        "value": 64
+      },
+      {
+        "name": "d4",
+        "value": 128
+      }
+    ]
+  },
+  {
+    "timestamp": "1:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 176
+      },
+      {
+        "name": "d2",
+        "value": 195
+      },
+      {
+        "name": "d3",
+        "value": 65
+      },
+      {
+        "name": "d4",
+        "value": 130
+      }
+    ]
+  },
+  {
+    "timestamp": "1:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 180
+      },
+      {
+        "name": "d2",
+        "value": 198
+      },
+      {
+        "name": "d3",
+        "value": 66
+      },
+      {
+        "name": "d4",
+        "value": 132
+      }
+    ]
+  },
+  {
+    "timestamp": "1:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 185
+      },
+      {
+        "name": "d2",
+        "value": 201
+      },
+      {
+        "name": "d3",
+        "value": 67
+      },
+      {
+        "name": "d4",
+        "value": 134
+      }
+    ]
+  },
+  {
+    "timestamp": "1:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 189
+      },
+      {
+        "name": "d2",
+        "value": 204
+      },
+      {
+        "name": "d3",
+        "value": 68
+      },
+      {
+        "name": "d4",
+        "value": 136
+      }
+    ]
+  },
+  {
+    "timestamp": "1:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 193
+      },
+      {
+        "name": "d2",
+        "value": 207
+      },
+      {
+        "name": "d3",
+        "value": 69
+      },
+      {
+        "name": "d4",
+        "value": 138
+      }
+    ]
+  },
+  {
+    "timestamp": "1:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 197
+      },
+      {
+        "name": "d2",
+        "value": 210
+      },
+      {
+        "name": "d3",
+        "value": 70
+      },
+      {
+        "name": "d4",
+        "value": 140
+      }
+    ]
+  },
+  {
+    "timestamp": "1:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 201
+      },
+      {
+        "name": "d2",
+        "value": 213
+      },
+      {
+        "name": "d3",
+        "value": 71
+      },
+      {
+        "name": "d4",
+        "value": 142
+      }
+    ]
+  },
+  {
+    "timestamp": "1:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 205
+      },
+      {
+        "name": "d2",
+        "value": 216
+      },
+      {
+        "name": "d3",
+        "value": 72
+      },
+      {
+        "name": "d4",
+        "value": 144
+      }
+    ]
+  },
+  {
+    "timestamp": "1:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 209
+      },
+      {
+        "name": "d2",
+        "value": 219
+      },
+      {
+        "name": "d3",
+        "value": 73
+      },
+      {
+        "name": "d4",
+        "value": 146
+      }
+    ]
+  },
+  {
+    "timestamp": "1:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 213
+      },
+      {
+        "name": "d2",
+        "value": 222
+      },
+      {
+        "name": "d3",
+        "value": 74
+      },
+      {
+        "name": "d4",
+        "value": 148
+      }
+    ]
+  },
+  {
+    "timestamp": "1:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 217
+      },
+      {
+        "name": "d2",
+        "value": 225
+      },
+      {
+        "name": "d3",
+        "value": 75
+      },
+      {
+        "name": "d4",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "timestamp": "1:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 221
+      },
+      {
+        "name": "d2",
+        "value": 228
+      },
+      {
+        "name": "d3",
+        "value": 76
+      },
+      {
+        "name": "d4",
+        "value": 152
+      }
+    ]
+  },
+  {
+    "timestamp": "1:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 225
+      },
+      {
+        "name": "d2",
+        "value": 231
+      },
+      {
+        "name": "d3",
+        "value": 77
+      },
+      {
+        "name": "d4",
+        "value": 154
+      }
+    ]
+  },
+  {
+    "timestamp": "1:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 228
+      },
+      {
+        "name": "d2",
+        "value": 234
+      },
+      {
+        "name": "d3",
+        "value": 78
+      },
+      {
+        "name": "d4",
+        "value": 156
+      }
+    ]
+  },
+  {
+    "timestamp": "1:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 232
+      },
+      {
+        "name": "d2",
+        "value": 237
+      },
+      {
+        "name": "d3",
+        "value": 79
+      },
+      {
+        "name": "d4",
+        "value": 158
+      }
+    ]
+  },
+  {
+    "timestamp": "1:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 236
+      },
+      {
+        "name": "d2",
+        "value": 240
+      },
+      {
+        "name": "d3",
+        "value": 80
+      },
+      {
+        "name": "d4",
+        "value": 160
+      }
+    ]
+  },
+  {
+    "timestamp": "1:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 240
+      },
+      {
+        "name": "d2",
+        "value": 243
+      },
+      {
+        "name": "d3",
+        "value": 81
+      },
+      {
+        "name": "d4",
+        "value": 162
+      }
+    ]
+  },
+  {
+    "timestamp": "1:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 243
+      },
+      {
+        "name": "d2",
+        "value": 246
+      },
+      {
+        "name": "d3",
+        "value": 82
+      },
+      {
+        "name": "d4",
+        "value": 164
+      }
+    ]
+  },
+  {
+    "timestamp": "1:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 247
+      },
+      {
+        "name": "d2",
+        "value": 249
+      },
+      {
+        "name": "d3",
+        "value": 83
+      },
+      {
+        "name": "d4",
+        "value": 166
+      }
+    ]
+  },
+  {
+    "timestamp": "1:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 250
+      },
+      {
+        "name": "d2",
+        "value": 252
+      },
+      {
+        "name": "d3",
+        "value": 84
+      },
+      {
+        "name": "d4",
+        "value": 168
+      }
+    ]
+  },
+  {
+    "timestamp": "1:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 254
+      },
+      {
+        "name": "d2",
+        "value": 255
+      },
+      {
+        "name": "d3",
+        "value": 85
+      },
+      {
+        "name": "d4",
+        "value": 170
+      }
+    ]
+  },
+  {
+    "timestamp": "1:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 257
+      },
+      {
+        "name": "d2",
+        "value": 258
+      },
+      {
+        "name": "d3",
+        "value": 86
+      },
+      {
+        "name": "d4",
+        "value": 172
+      }
+    ]
+  },
+  {
+    "timestamp": "1:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 260
+      },
+      {
+        "name": "d2",
+        "value": 261
+      },
+      {
+        "name": "d3",
+        "value": 87
+      },
+      {
+        "name": "d4",
+        "value": 174
+      }
+    ]
+  },
+  {
+    "timestamp": "1:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 263
+      },
+      {
+        "name": "d2",
+        "value": 264
+      },
+      {
+        "name": "d3",
+        "value": 88
+      },
+      {
+        "name": "d4",
+        "value": 176
+      }
+    ]
+  },
+  {
+    "timestamp": "1:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 266
+      },
+      {
+        "name": "d2",
+        "value": 267
+      },
+      {
+        "name": "d3",
+        "value": 89
+      },
+      {
+        "name": "d4",
+        "value": 178
+      }
+    ]
+  },
+  {
+    "timestamp": "1:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 270
+      },
+      {
+        "name": "d2",
+        "value": 270
+      },
+      {
+        "name": "d3",
+        "value": 90
+      },
+      {
+        "name": "d4",
+        "value": 180
+      }
+    ]
+  },
+  {
+    "timestamp": "1:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 272
+      },
+      {
+        "name": "d2",
+        "value": 273
+      },
+      {
+        "name": "d3",
+        "value": 91
+      },
+      {
+        "name": "d4",
+        "value": 182
+      }
+    ]
+  },
+  {
+    "timestamp": "1:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 275
+      },
+      {
+        "name": "d2",
+        "value": 276
+      },
+      {
+        "name": "d3",
+        "value": 92
+      },
+      {
+        "name": "d4",
+        "value": 184
+      }
+    ]
+  },
+  {
+    "timestamp": "1:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 278
+      },
+      {
+        "name": "d2",
+        "value": 279
+      },
+      {
+        "name": "d3",
+        "value": 93
+      },
+      {
+        "name": "d4",
+        "value": 186
+      }
+    ]
+  },
+  {
+    "timestamp": "1:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 281
+      },
+      {
+        "name": "d2",
+        "value": 282
+      },
+      {
+        "name": "d3",
+        "value": 94
+      },
+      {
+        "name": "d4",
+        "value": 188
+      }
+    ]
+  },
+  {
+    "timestamp": "1:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 283
+      },
+      {
+        "name": "d2",
+        "value": 285
+      },
+      {
+        "name": "d3",
+        "value": 95
+      },
+      {
+        "name": "d4",
+        "value": 190
+      }
+    ]
+  },
+  {
+    "timestamp": "1:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 286
+      },
+      {
+        "name": "d2",
+        "value": 288
+      },
+      {
+        "name": "d3",
+        "value": 96
+      },
+      {
+        "name": "d4",
+        "value": 192
+      }
+    ]
+  },
+  {
+    "timestamp": "1:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 288
+      },
+      {
+        "name": "d2",
+        "value": 291
+      },
+      {
+        "name": "d3",
+        "value": 97
+      },
+      {
+        "name": "d4",
+        "value": 194
+      }
+    ]
+  },
+  {
+    "timestamp": "1:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 291
+      },
+      {
+        "name": "d2",
+        "value": 294
+      },
+      {
+        "name": "d3",
+        "value": 98
+      },
+      {
+        "name": "d4",
+        "value": 196
+      }
+    ]
+  },
+  {
+    "timestamp": "1:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 293
+      },
+      {
+        "name": "d2",
+        "value": 297
+      },
+      {
+        "name": "d3",
+        "value": 99
+      },
+      {
+        "name": "d4",
+        "value": 198
+      }
+    ]
+  },
+  {
+    "timestamp": "1:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 295
+      },
+      {
+        "name": "d2",
+        "value": 300
+      },
+      {
+        "name": "d3",
+        "value": 100
+      },
+      {
+        "name": "d4",
+        "value": 200
+      }
+    ]
+  },
+  {
+    "timestamp": "1:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 297
+      },
+      {
+        "name": "d2",
+        "value": 303
+      },
+      {
+        "name": "d3",
+        "value": 101
+      },
+      {
+        "name": "d4",
+        "value": 202
+      }
+    ]
+  },
+  {
+    "timestamp": "1:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 299
+      },
+      {
+        "name": "d2",
+        "value": 306
+      },
+      {
+        "name": "d3",
+        "value": 102
+      },
+      {
+        "name": "d4",
+        "value": 204
+      }
+    ]
+  },
+  {
+    "timestamp": "1:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 301
+      },
+      {
+        "name": "d2",
+        "value": 309
+      },
+      {
+        "name": "d3",
+        "value": 103
+      },
+      {
+        "name": "d4",
+        "value": 206
+      }
+    ]
+  },
+  {
+    "timestamp": "1:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 302
+      },
+      {
+        "name": "d2",
+        "value": 312
+      },
+      {
+        "name": "d3",
+        "value": 104
+      },
+      {
+        "name": "d4",
+        "value": 208
+      }
+    ]
+  },
+  {
+    "timestamp": "1:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 304
+      },
+      {
+        "name": "d2",
+        "value": 315
+      },
+      {
+        "name": "d3",
+        "value": 105
+      },
+      {
+        "name": "d4",
+        "value": 210
+      }
+    ]
+  },
+  {
+    "timestamp": "1:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 305
+      },
+      {
+        "name": "d2",
+        "value": 318
+      },
+      {
+        "name": "d3",
+        "value": 106
+      },
+      {
+        "name": "d4",
+        "value": 212
+      }
+    ]
+  },
+  {
+    "timestamp": "1:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 306
+      },
+      {
+        "name": "d2",
+        "value": 321
+      },
+      {
+        "name": "d3",
+        "value": 107
+      },
+      {
+        "name": "d4",
+        "value": 214
+      }
+    ]
+  },
+  {
+    "timestamp": "1:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 308
+      },
+      {
+        "name": "d2",
+        "value": 324
+      },
+      {
+        "name": "d3",
+        "value": 108
+      },
+      {
+        "name": "d4",
+        "value": 216
+      }
+    ]
+  },
+  {
+    "timestamp": "1:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 309
+      },
+      {
+        "name": "d2",
+        "value": 327
+      },
+      {
+        "name": "d3",
+        "value": 109
+      },
+      {
+        "name": "d4",
+        "value": 218
+      }
+    ]
+  },
+  {
+    "timestamp": "1:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 310
+      },
+      {
+        "name": "d2",
+        "value": 330
+      },
+      {
+        "name": "d3",
+        "value": 110
+      },
+      {
+        "name": "d4",
+        "value": 220
+      }
+    ]
+  },
+  {
+    "timestamp": "1:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 310
+      },
+      {
+        "name": "d2",
+        "value": 333
+      },
+      {
+        "name": "d3",
+        "value": 111
+      },
+      {
+        "name": "d4",
+        "value": 222
+      }
+    ]
+  },
+  {
+    "timestamp": "1:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 311
+      },
+      {
+        "name": "d2",
+        "value": 336
+      },
+      {
+        "name": "d3",
+        "value": 112
+      },
+      {
+        "name": "d4",
+        "value": 224
+      }
+    ]
+  },
+  {
+    "timestamp": "1:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 339
+      },
+      {
+        "name": "d3",
+        "value": 113
+      },
+      {
+        "name": "d4",
+        "value": 226
+      }
+    ]
+  },
+  {
+    "timestamp": "1:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 342
+      },
+      {
+        "name": "d3",
+        "value": 114
+      },
+      {
+        "name": "d4",
+        "value": 228
+      }
+    ]
+  },
+  {
+    "timestamp": "1:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 345
+      },
+      {
+        "name": "d3",
+        "value": 115
+      },
+      {
+        "name": "d4",
+        "value": 230
+      }
+    ]
+  },
+  {
+    "timestamp": "1:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 348
+      },
+      {
+        "name": "d3",
+        "value": 116
+      },
+      {
+        "name": "d4",
+        "value": 232
+      }
+    ]
+  },
+  {
+    "timestamp": "1:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 351
+      },
+      {
+        "name": "d3",
+        "value": 117
+      },
+      {
+        "name": "d4",
+        "value": 234
+      }
+    ]
+  },
+  {
+    "timestamp": "1:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 354
+      },
+      {
+        "name": "d3",
+        "value": 118
+      },
+      {
+        "name": "d4",
+        "value": 236
+      }
+    ]
+  },
+  {
+    "timestamp": "1:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 312
+      },
+      {
+        "name": "d2",
+        "value": 357
+      },
+      {
+        "name": "d3",
+        "value": 119
+      },
+      {
+        "name": "d4",
+        "value": 238
+      }
+    ]
+  },
+  {
+    "timestamp": "2:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 311
+      },
+      {
+        "name": "d2",
+        "value": 360
+      },
+      {
+        "name": "d3",
+        "value": 120
+      },
+      {
+        "name": "d4",
+        "value": 240
+      }
+    ]
+  },
+  {
+    "timestamp": "2:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 311
+      },
+      {
+        "name": "d2",
+        "value": 363
+      },
+      {
+        "name": "d3",
+        "value": 121
+      },
+      {
+        "name": "d4",
+        "value": 242
+      }
+    ]
+  },
+  {
+    "timestamp": "2:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 310
+      },
+      {
+        "name": "d2",
+        "value": 366
+      },
+      {
+        "name": "d3",
+        "value": 122
+      },
+      {
+        "name": "d4",
+        "value": 244
+      }
+    ]
+  },
+  {
+    "timestamp": "2:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 309
+      },
+      {
+        "name": "d2",
+        "value": 369
+      },
+      {
+        "name": "d3",
+        "value": 123
+      },
+      {
+        "name": "d4",
+        "value": 246
+      }
+    ]
+  },
+  {
+    "timestamp": "2:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 308
+      },
+      {
+        "name": "d2",
+        "value": 372
+      },
+      {
+        "name": "d3",
+        "value": 124
+      },
+      {
+        "name": "d4",
+        "value": 248
+      }
+    ]
+  },
+  {
+    "timestamp": "2:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 307
+      },
+      {
+        "name": "d2",
+        "value": 375
+      },
+      {
+        "name": "d3",
+        "value": 125
+      },
+      {
+        "name": "d4",
+        "value": 250
+      }
+    ]
+  },
+  {
+    "timestamp": "2:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 305
+      },
+      {
+        "name": "d2",
+        "value": 378
+      },
+      {
+        "name": "d3",
+        "value": 126
+      },
+      {
+        "name": "d4",
+        "value": 252
+      }
+    ]
+  },
+  {
+    "timestamp": "2:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 304
+      },
+      {
+        "name": "d2",
+        "value": 381
+      },
+      {
+        "name": "d3",
+        "value": 127
+      },
+      {
+        "name": "d4",
+        "value": 254
+      }
+    ]
+  },
+  {
+    "timestamp": "2:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 302
+      },
+      {
+        "name": "d2",
+        "value": 384
+      },
+      {
+        "name": "d3",
+        "value": 128
+      },
+      {
+        "name": "d4",
+        "value": 256
+      }
+    ]
+  },
+  {
+    "timestamp": "2:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 300
+      },
+      {
+        "name": "d2",
+        "value": 387
+      },
+      {
+        "name": "d3",
+        "value": 129
+      },
+      {
+        "name": "d4",
+        "value": 258
+      }
+    ]
+  },
+  {
+    "timestamp": "2:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 298
+      },
+      {
+        "name": "d2",
+        "value": 390
+      },
+      {
+        "name": "d3",
+        "value": 130
+      },
+      {
+        "name": "d4",
+        "value": 260
+      }
+    ]
+  },
+  {
+    "timestamp": "2:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 296
+      },
+      {
+        "name": "d2",
+        "value": 393
+      },
+      {
+        "name": "d3",
+        "value": 131
+      },
+      {
+        "name": "d4",
+        "value": 262
+      }
+    ]
+  },
+  {
+    "timestamp": "2:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 294
+      },
+      {
+        "name": "d2",
+        "value": 396
+      },
+      {
+        "name": "d3",
+        "value": 132
+      },
+      {
+        "name": "d4",
+        "value": 264
+      }
+    ]
+  },
+  {
+    "timestamp": "2:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 291
+      },
+      {
+        "name": "d2",
+        "value": 399
+      },
+      {
+        "name": "d3",
+        "value": 133
+      },
+      {
+        "name": "d4",
+        "value": 266
+      }
+    ]
+  },
+  {
+    "timestamp": "2:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 289
+      },
+      {
+        "name": "d2",
+        "value": 402
+      },
+      {
+        "name": "d3",
+        "value": 134
+      },
+      {
+        "name": "d4",
+        "value": 268
+      }
+    ]
+  },
+  {
+    "timestamp": "2:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 286
+      },
+      {
+        "name": "d2",
+        "value": 405
+      },
+      {
+        "name": "d3",
+        "value": 135
+      },
+      {
+        "name": "d4",
+        "value": 270
+      }
+    ]
+  },
+  {
+    "timestamp": "2:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 283
+      },
+      {
+        "name": "d2",
+        "value": 408
+      },
+      {
+        "name": "d3",
+        "value": 136
+      },
+      {
+        "name": "d4",
+        "value": 272
+      }
+    ]
+  },
+  {
+    "timestamp": "2:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 280
+      },
+      {
+        "name": "d2",
+        "value": 411
+      },
+      {
+        "name": "d3",
+        "value": 137
+      },
+      {
+        "name": "d4",
+        "value": 274
+      }
+    ]
+  },
+  {
+    "timestamp": "2:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 277
+      },
+      {
+        "name": "d2",
+        "value": 414
+      },
+      {
+        "name": "d3",
+        "value": 138
+      },
+      {
+        "name": "d4",
+        "value": 276
+      }
+    ]
+  },
+  {
+    "timestamp": "2:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 273
+      },
+      {
+        "name": "d2",
+        "value": 417
+      },
+      {
+        "name": "d3",
+        "value": 139
+      },
+      {
+        "name": "d4",
+        "value": 278
+      }
+    ]
+  },
+  {
+    "timestamp": "2:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 269
+      },
+      {
+        "name": "d2",
+        "value": 420
+      },
+      {
+        "name": "d3",
+        "value": 140
+      },
+      {
+        "name": "d4",
+        "value": 280
+      }
+    ]
+  },
+  {
+    "timestamp": "2:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 266
+      },
+      {
+        "name": "d2",
+        "value": 423
+      },
+      {
+        "name": "d3",
+        "value": 141
+      },
+      {
+        "name": "d4",
+        "value": 282
+      }
+    ]
+  },
+  {
+    "timestamp": "2:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 262
+      },
+      {
+        "name": "d2",
+        "value": 426
+      },
+      {
+        "name": "d3",
+        "value": 142
+      },
+      {
+        "name": "d4",
+        "value": 284
+      }
+    ]
+  },
+  {
+    "timestamp": "2:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 258
+      },
+      {
+        "name": "d2",
+        "value": 429
+      },
+      {
+        "name": "d3",
+        "value": 143
+      },
+      {
+        "name": "d4",
+        "value": 286
+      }
+    ]
+  },
+  {
+    "timestamp": "2:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 253
+      },
+      {
+        "name": "d2",
+        "value": 432
+      },
+      {
+        "name": "d3",
+        "value": 144
+      },
+      {
+        "name": "d4",
+        "value": 288
+      }
+    ]
+  },
+  {
+    "timestamp": "2:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 249
+      },
+      {
+        "name": "d2",
+        "value": 435
+      },
+      {
+        "name": "d3",
+        "value": 145
+      },
+      {
+        "name": "d4",
+        "value": 290
+      }
+    ]
+  },
+  {
+    "timestamp": "2:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 244
+      },
+      {
+        "name": "d2",
+        "value": 438
+      },
+      {
+        "name": "d3",
+        "value": 146
+      },
+      {
+        "name": "d4",
+        "value": 292
+      }
+    ]
+  },
+  {
+    "timestamp": "2:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 240
+      },
+      {
+        "name": "d2",
+        "value": 441
+      },
+      {
+        "name": "d3",
+        "value": 147
+      },
+      {
+        "name": "d4",
+        "value": 294
+      }
+    ]
+  },
+  {
+    "timestamp": "2:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 235
+      },
+      {
+        "name": "d2",
+        "value": 444
+      },
+      {
+        "name": "d3",
+        "value": 148
+      },
+      {
+        "name": "d4",
+        "value": 296
+      }
+    ]
+  },
+  {
+    "timestamp": "2:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 230
+      },
+      {
+        "name": "d2",
+        "value": 447
+      },
+      {
+        "name": "d3",
+        "value": 149
+      },
+      {
+        "name": "d4",
+        "value": 298
+      }
+    ]
+  },
+  {
+    "timestamp": "2:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 224
+      },
+      {
+        "name": "d2",
+        "value": 450
+      },
+      {
+        "name": "d3",
+        "value": 150
+      },
+      {
+        "name": "d4",
+        "value": 300
+      }
+    ]
+  },
+  {
+    "timestamp": "2:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 219
+      },
+      {
+        "name": "d2",
+        "value": 453
+      },
+      {
+        "name": "d3",
+        "value": 151
+      },
+      {
+        "name": "d4",
+        "value": 302
+      }
+    ]
+  },
+  {
+    "timestamp": "2:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 214
+      },
+      {
+        "name": "d2",
+        "value": 456
+      },
+      {
+        "name": "d3",
+        "value": 152
+      },
+      {
+        "name": "d4",
+        "value": 304
+      }
+    ]
+  },
+  {
+    "timestamp": "2:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 208
+      },
+      {
+        "name": "d2",
+        "value": 459
+      },
+      {
+        "name": "d3",
+        "value": 153
+      },
+      {
+        "name": "d4",
+        "value": 306
+      }
+    ]
+  },
+  {
+    "timestamp": "2:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 202
+      },
+      {
+        "name": "d2",
+        "value": 462
+      },
+      {
+        "name": "d3",
+        "value": 154
+      },
+      {
+        "name": "d4",
+        "value": 308
+      }
+    ]
+  },
+  {
+    "timestamp": "2:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 196
+      },
+      {
+        "name": "d2",
+        "value": 465
+      },
+      {
+        "name": "d3",
+        "value": 155
+      },
+      {
+        "name": "d4",
+        "value": 310
+      }
+    ]
+  },
+  {
+    "timestamp": "2:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 190
+      },
+      {
+        "name": "d2",
+        "value": 468
+      },
+      {
+        "name": "d3",
+        "value": 156
+      },
+      {
+        "name": "d4",
+        "value": 312
+      }
+    ]
+  },
+  {
+    "timestamp": "2:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 184
+      },
+      {
+        "name": "d2",
+        "value": 471
+      },
+      {
+        "name": "d3",
+        "value": 157
+      },
+      {
+        "name": "d4",
+        "value": 314
+      }
+    ]
+  },
+  {
+    "timestamp": "2:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 177
+      },
+      {
+        "name": "d2",
+        "value": 474
+      },
+      {
+        "name": "d3",
+        "value": 158
+      },
+      {
+        "name": "d4",
+        "value": 316
+      }
+    ]
+  },
+  {
+    "timestamp": "2:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 170
+      },
+      {
+        "name": "d2",
+        "value": 477
+      },
+      {
+        "name": "d3",
+        "value": 159
+      },
+      {
+        "name": "d4",
+        "value": 318
+      }
+    ]
+  },
+  {
+    "timestamp": "2:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 164
+      },
+      {
+        "name": "d2",
+        "value": 480
+      },
+      {
+        "name": "d3",
+        "value": 160
+      },
+      {
+        "name": "d4",
+        "value": 320
+      }
+    ]
+  },
+  {
+    "timestamp": "2:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 157
+      },
+      {
+        "name": "d2",
+        "value": 483
+      },
+      {
+        "name": "d3",
+        "value": 161
+      },
+      {
+        "name": "d4",
+        "value": 322
+      }
+    ]
+  },
+  {
+    "timestamp": "2:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 150
+      },
+      {
+        "name": "d2",
+        "value": 486
+      },
+      {
+        "name": "d3",
+        "value": 162
+      },
+      {
+        "name": "d4",
+        "value": 324
+      }
+    ]
+  },
+  {
+    "timestamp": "2:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 142
+      },
+      {
+        "name": "d2",
+        "value": 489
+      },
+      {
+        "name": "d3",
+        "value": 163
+      },
+      {
+        "name": "d4",
+        "value": 326
+      }
+    ]
+  },
+  {
+    "timestamp": "2:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 135
+      },
+      {
+        "name": "d2",
+        "value": 492
+      },
+      {
+        "name": "d3",
+        "value": 164
+      },
+      {
+        "name": "d4",
+        "value": 328
+      }
+    ]
+  },
+  {
+    "timestamp": "2:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 128
+      },
+      {
+        "name": "d2",
+        "value": 495
+      },
+      {
+        "name": "d3",
+        "value": 165
+      },
+      {
+        "name": "d4",
+        "value": 330
+      }
+    ]
+  },
+  {
+    "timestamp": "2:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 120
+      },
+      {
+        "name": "d2",
+        "value": 498
+      },
+      {
+        "name": "d3",
+        "value": 166
+      },
+      {
+        "name": "d4",
+        "value": 332
+      }
+    ]
+  },
+  {
+    "timestamp": "2:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 112
+      },
+      {
+        "name": "d2",
+        "value": 501
+      },
+      {
+        "name": "d3",
+        "value": 167
+      },
+      {
+        "name": "d4",
+        "value": 334
+      }
+    ]
+  },
+  {
+    "timestamp": "2:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 104
+      },
+      {
+        "name": "d2",
+        "value": 504
+      },
+      {
+        "name": "d3",
+        "value": 168
+      },
+      {
+        "name": "d4",
+        "value": 336
+      }
+    ]
+  },
+  {
+    "timestamp": "2:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 96
+      },
+      {
+        "name": "d2",
+        "value": 507
+      },
+      {
+        "name": "d3",
+        "value": 169
+      },
+      {
+        "name": "d4",
+        "value": 338
+      }
+    ]
+  },
+  {
+    "timestamp": "2:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 88
+      },
+      {
+        "name": "d2",
+        "value": 510
+      },
+      {
+        "name": "d3",
+        "value": 170
+      },
+      {
+        "name": "d4",
+        "value": 340
+      }
+    ]
+  },
+  {
+    "timestamp": "2:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 80
+      },
+      {
+        "name": "d2",
+        "value": 513
+      },
+      {
+        "name": "d3",
+        "value": 171
+      },
+      {
+        "name": "d4",
+        "value": 342
+      }
+    ]
+  },
+  {
+    "timestamp": "2:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 71
+      },
+      {
+        "name": "d2",
+        "value": 516
+      },
+      {
+        "name": "d3",
+        "value": 172
+      },
+      {
+        "name": "d4",
+        "value": 344
+      }
+    ]
+  },
+  {
+    "timestamp": "2:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 63
+      },
+      {
+        "name": "d2",
+        "value": 519
+      },
+      {
+        "name": "d3",
+        "value": 173
+      },
+      {
+        "name": "d4",
+        "value": 346
+      }
+    ]
+  },
+  {
+    "timestamp": "2:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 54
+      },
+      {
+        "name": "d2",
+        "value": 522
+      },
+      {
+        "name": "d3",
+        "value": 174
+      },
+      {
+        "name": "d4",
+        "value": 348
+      }
+    ]
+  },
+  {
+    "timestamp": "2:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 45
+      },
+      {
+        "name": "d2",
+        "value": 525
+      },
+      {
+        "name": "d3",
+        "value": 175
+      },
+      {
+        "name": "d4",
+        "value": 350
+      }
+    ]
+  },
+  {
+    "timestamp": "2:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 36
+      },
+      {
+        "name": "d2",
+        "value": 528
+      },
+      {
+        "name": "d3",
+        "value": 176
+      },
+      {
+        "name": "d4",
+        "value": 352
+      }
+    ]
+  },
+  {
+    "timestamp": "2:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 27
+      },
+      {
+        "name": "d2",
+        "value": 531
+      },
+      {
+        "name": "d3",
+        "value": 177
+      },
+      {
+        "name": "d4",
+        "value": 354
+      }
+    ]
+  },
+  {
+    "timestamp": "2:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 18
+      },
+      {
+        "name": "d2",
+        "value": 534
+      },
+      {
+        "name": "d3",
+        "value": 178
+      },
+      {
+        "name": "d4",
+        "value": 356
+      }
+    ]
+  },
+  {
+    "timestamp": "2:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 9
+      },
+      {
+        "name": "d2",
+        "value": 537
+      },
+      {
+        "name": "d3",
+        "value": 179
+      },
+      {
+        "name": "d4",
+        "value": 358
+      }
+    ]
+  },
+  {
+    "timestamp": "3:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 540
+      },
+      {
+        "name": "d3",
+        "value": 180
+      },
+      {
+        "name": "d4",
+        "value": 360
+      }
+    ]
+  },
+  {
+    "timestamp": "3:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 9
+      },
+      {
+        "name": "d2",
+        "value": 543
+      },
+      {
+        "name": "d3",
+        "value": 181
+      },
+      {
+        "name": "d4",
+        "value": 362
+      }
+    ]
+  },
+  {
+    "timestamp": "3:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 19
+      },
+      {
+        "name": "d2",
+        "value": 546
+      },
+      {
+        "name": "d3",
+        "value": 182
+      },
+      {
+        "name": "d4",
+        "value": 364
+      }
+    ]
+  },
+  {
+    "timestamp": "3:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 28
+      },
+      {
+        "name": "d2",
+        "value": 549
+      },
+      {
+        "name": "d3",
+        "value": 183
+      },
+      {
+        "name": "d4",
+        "value": 366
+      }
+    ]
+  },
+  {
+    "timestamp": "3:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 38
+      },
+      {
+        "name": "d2",
+        "value": 552
+      },
+      {
+        "name": "d3",
+        "value": 184
+      },
+      {
+        "name": "d4",
+        "value": 368
+      }
+    ]
+  },
+  {
+    "timestamp": "3:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 48
+      },
+      {
+        "name": "d2",
+        "value": 555
+      },
+      {
+        "name": "d3",
+        "value": 185
+      },
+      {
+        "name": "d4",
+        "value": 370
+      }
+    ]
+  },
+  {
+    "timestamp": "3:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 58
+      },
+      {
+        "name": "d2",
+        "value": 558
+      },
+      {
+        "name": "d3",
+        "value": 186
+      },
+      {
+        "name": "d4",
+        "value": 372
+      }
+    ]
+  },
+  {
+    "timestamp": "3:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 68
+      },
+      {
+        "name": "d2",
+        "value": 561
+      },
+      {
+        "name": "d3",
+        "value": 187
+      },
+      {
+        "name": "d4",
+        "value": 374
+      }
+    ]
+  },
+  {
+    "timestamp": "3:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 78
+      },
+      {
+        "name": "d2",
+        "value": 564
+      },
+      {
+        "name": "d3",
+        "value": 188
+      },
+      {
+        "name": "d4",
+        "value": 376
+      }
+    ]
+  },
+  {
+    "timestamp": "3:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 88
+      },
+      {
+        "name": "d2",
+        "value": 567
+      },
+      {
+        "name": "d3",
+        "value": 189
+      },
+      {
+        "name": "d4",
+        "value": 378
+      }
+    ]
+  },
+  {
+    "timestamp": "3:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 98
+      },
+      {
+        "name": "d2",
+        "value": 570
+      },
+      {
+        "name": "d3",
+        "value": 190
+      },
+      {
+        "name": "d4",
+        "value": 380
+      }
+    ]
+  },
+  {
+    "timestamp": "3:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 109
+      },
+      {
+        "name": "d2",
+        "value": 573
+      },
+      {
+        "name": "d3",
+        "value": 191
+      },
+      {
+        "name": "d4",
+        "value": 382
+      }
+    ]
+  },
+  {
+    "timestamp": "3:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 119
+      },
+      {
+        "name": "d2",
+        "value": 576
+      },
+      {
+        "name": "d3",
+        "value": 192
+      },
+      {
+        "name": "d4",
+        "value": 384
+      }
+    ]
+  },
+  {
+    "timestamp": "3:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 130
+      },
+      {
+        "name": "d2",
+        "value": 579
+      },
+      {
+        "name": "d3",
+        "value": 193
+      },
+      {
+        "name": "d4",
+        "value": 386
+      }
+    ]
+  },
+  {
+    "timestamp": "3:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 140
+      },
+      {
+        "name": "d2",
+        "value": 582
+      },
+      {
+        "name": "d3",
+        "value": 194
+      },
+      {
+        "name": "d4",
+        "value": 388
+      }
+    ]
+  },
+  {
+    "timestamp": "3:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 151
+      },
+      {
+        "name": "d2",
+        "value": 585
+      },
+      {
+        "name": "d3",
+        "value": 195
+      },
+      {
+        "name": "d4",
+        "value": 390
+      }
+    ]
+  },
+  {
+    "timestamp": "3:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 162
+      },
+      {
+        "name": "d2",
+        "value": 588
+      },
+      {
+        "name": "d3",
+        "value": 196
+      },
+      {
+        "name": "d4",
+        "value": 392
+      }
+    ]
+  },
+  {
+    "timestamp": "3:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 172
+      },
+      {
+        "name": "d2",
+        "value": 591
+      },
+      {
+        "name": "d3",
+        "value": 197
+      },
+      {
+        "name": "d4",
+        "value": 394
+      }
+    ]
+  },
+  {
+    "timestamp": "3:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 183
+      },
+      {
+        "name": "d2",
+        "value": 594
+      },
+      {
+        "name": "d3",
+        "value": 198
+      },
+      {
+        "name": "d4",
+        "value": 396
+      }
+    ]
+  },
+  {
+    "timestamp": "3:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 194
+      },
+      {
+        "name": "d2",
+        "value": 597
+      },
+      {
+        "name": "d3",
+        "value": 199
+      },
+      {
+        "name": "d4",
+        "value": 398
+      }
+    ]
+  },
+  {
+    "timestamp": "3:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 205
+      },
+      {
+        "name": "d2",
+        "value": 600
+      },
+      {
+        "name": "d3",
+        "value": 200
+      },
+      {
+        "name": "d4",
+        "value": 400
+      }
+    ]
+  },
+  {
+    "timestamp": "3:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 216
+      },
+      {
+        "name": "d2",
+        "value": 603
+      },
+      {
+        "name": "d3",
+        "value": 201
+      },
+      {
+        "name": "d4",
+        "value": 402
+      }
+    ]
+  },
+  {
+    "timestamp": "3:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 227
+      },
+      {
+        "name": "d2",
+        "value": 606
+      },
+      {
+        "name": "d3",
+        "value": 202
+      },
+      {
+        "name": "d4",
+        "value": 404
+      }
+    ]
+  },
+  {
+    "timestamp": "3:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 237
+      },
+      {
+        "name": "d2",
+        "value": 609
+      },
+      {
+        "name": "d3",
+        "value": 203
+      },
+      {
+        "name": "d4",
+        "value": 406
+      }
+    ]
+  },
+  {
+    "timestamp": "3:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 248
+      },
+      {
+        "name": "d2",
+        "value": 612
+      },
+      {
+        "name": "d3",
+        "value": 204
+      },
+      {
+        "name": "d4",
+        "value": 408
+      }
+    ]
+  },
+  {
+    "timestamp": "3:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 259
+      },
+      {
+        "name": "d2",
+        "value": 615
+      },
+      {
+        "name": "d3",
+        "value": 205
+      },
+      {
+        "name": "d4",
+        "value": 410
+      }
+    ]
+  },
+  {
+    "timestamp": "3:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 270
+      },
+      {
+        "name": "d2",
+        "value": 618
+      },
+      {
+        "name": "d3",
+        "value": 206
+      },
+      {
+        "name": "d4",
+        "value": 412
+      }
+    ]
+  },
+  {
+    "timestamp": "3:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 281
+      },
+      {
+        "name": "d2",
+        "value": 621
+      },
+      {
+        "name": "d3",
+        "value": 207
+      },
+      {
+        "name": "d4",
+        "value": 414
+      }
+    ]
+  },
+  {
+    "timestamp": "3:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 292
+      },
+      {
+        "name": "d2",
+        "value": 624
+      },
+      {
+        "name": "d3",
+        "value": 208
+      },
+      {
+        "name": "d4",
+        "value": 416
+      }
+    ]
+  },
+  {
+    "timestamp": "3:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 303
+      },
+      {
+        "name": "d2",
+        "value": 627
+      },
+      {
+        "name": "d3",
+        "value": 209
+      },
+      {
+        "name": "d4",
+        "value": 418
+      }
+    ]
+  },
+  {
+    "timestamp": "3:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 315
+      },
+      {
+        "name": "d2",
+        "value": 630
+      },
+      {
+        "name": "d3",
+        "value": 210
+      },
+      {
+        "name": "d4",
+        "value": 420
+      }
+    ]
+  },
+  {
+    "timestamp": "3:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 326
+      },
+      {
+        "name": "d2",
+        "value": 633
+      },
+      {
+        "name": "d3",
+        "value": 211
+      },
+      {
+        "name": "d4",
+        "value": 422
+      }
+    ]
+  },
+  {
+    "timestamp": "3:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 337
+      },
+      {
+        "name": "d2",
+        "value": 636
+      },
+      {
+        "name": "d3",
+        "value": 212
+      },
+      {
+        "name": "d4",
+        "value": 424
+      }
+    ]
+  },
+  {
+    "timestamp": "3:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 348
+      },
+      {
+        "name": "d2",
+        "value": 639
+      },
+      {
+        "name": "d3",
+        "value": 213
+      },
+      {
+        "name": "d4",
+        "value": 426
+      }
+    ]
+  },
+  {
+    "timestamp": "3:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 359
+      },
+      {
+        "name": "d2",
+        "value": 642
+      },
+      {
+        "name": "d3",
+        "value": 214
+      },
+      {
+        "name": "d4",
+        "value": 428
+      }
+    ]
+  },
+  {
+    "timestamp": "3:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 369
+      },
+      {
+        "name": "d2",
+        "value": 645
+      },
+      {
+        "name": "d3",
+        "value": 215
+      },
+      {
+        "name": "d4",
+        "value": 430
+      }
+    ]
+  },
+  {
+    "timestamp": "3:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 380
+      },
+      {
+        "name": "d2",
+        "value": 648
+      },
+      {
+        "name": "d3",
+        "value": 216
+      },
+      {
+        "name": "d4",
+        "value": 432
+      }
+    ]
+  },
+  {
+    "timestamp": "3:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 391
+      },
+      {
+        "name": "d2",
+        "value": 651
+      },
+      {
+        "name": "d3",
+        "value": 217
+      },
+      {
+        "name": "d4",
+        "value": 434
+      }
+    ]
+  },
+  {
+    "timestamp": "3:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 402
+      },
+      {
+        "name": "d2",
+        "value": 654
+      },
+      {
+        "name": "d3",
+        "value": 218
+      },
+      {
+        "name": "d4",
+        "value": 436
+      }
+    ]
+  },
+  {
+    "timestamp": "3:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 413
+      },
+      {
+        "name": "d2",
+        "value": 657
+      },
+      {
+        "name": "d3",
+        "value": 219
+      },
+      {
+        "name": "d4",
+        "value": 438
+      }
+    ]
+  },
+  {
+    "timestamp": "3:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 424
+      },
+      {
+        "name": "d2",
+        "value": 660
+      },
+      {
+        "name": "d3",
+        "value": 220
+      },
+      {
+        "name": "d4",
+        "value": 440
+      }
+    ]
+  },
+  {
+    "timestamp": "3:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 434
+      },
+      {
+        "name": "d2",
+        "value": 663
+      },
+      {
+        "name": "d3",
+        "value": 221
+      },
+      {
+        "name": "d4",
+        "value": 442
+      }
+    ]
+  },
+  {
+    "timestamp": "3:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 445
+      },
+      {
+        "name": "d2",
+        "value": 666
+      },
+      {
+        "name": "d3",
+        "value": 222
+      },
+      {
+        "name": "d4",
+        "value": 444
+      }
+    ]
+  },
+  {
+    "timestamp": "3:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 456
+      },
+      {
+        "name": "d2",
+        "value": 669
+      },
+      {
+        "name": "d3",
+        "value": 223
+      },
+      {
+        "name": "d4",
+        "value": 446
+      }
+    ]
+  },
+  {
+    "timestamp": "3:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 466
+      },
+      {
+        "name": "d2",
+        "value": 672
+      },
+      {
+        "name": "d3",
+        "value": 224
+      },
+      {
+        "name": "d4",
+        "value": 448
+      }
+    ]
+  },
+  {
+    "timestamp": "3:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 477
+      },
+      {
+        "name": "d2",
+        "value": 675
+      },
+      {
+        "name": "d3",
+        "value": 225
+      },
+      {
+        "name": "d4",
+        "value": 450
+      }
+    ]
+  },
+  {
+    "timestamp": "3:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 487
+      },
+      {
+        "name": "d2",
+        "value": 678
+      },
+      {
+        "name": "d3",
+        "value": 226
+      },
+      {
+        "name": "d4",
+        "value": 452
+      }
+    ]
+  },
+  {
+    "timestamp": "3:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 498
+      },
+      {
+        "name": "d2",
+        "value": 681
+      },
+      {
+        "name": "d3",
+        "value": 227
+      },
+      {
+        "name": "d4",
+        "value": 454
+      }
+    ]
+  },
+  {
+    "timestamp": "3:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 508
+      },
+      {
+        "name": "d2",
+        "value": 684
+      },
+      {
+        "name": "d3",
+        "value": 228
+      },
+      {
+        "name": "d4",
+        "value": 456
+      }
+    ]
+  },
+  {
+    "timestamp": "3:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 518
+      },
+      {
+        "name": "d2",
+        "value": 687
+      },
+      {
+        "name": "d3",
+        "value": 229
+      },
+      {
+        "name": "d4",
+        "value": 458
+      }
+    ]
+  },
+  {
+    "timestamp": "3:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 528
+      },
+      {
+        "name": "d2",
+        "value": 690
+      },
+      {
+        "name": "d3",
+        "value": 230
+      },
+      {
+        "name": "d4",
+        "value": 460
+      }
+    ]
+  },
+  {
+    "timestamp": "3:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 538
+      },
+      {
+        "name": "d2",
+        "value": 693
+      },
+      {
+        "name": "d3",
+        "value": 231
+      },
+      {
+        "name": "d4",
+        "value": 462
+      }
+    ]
+  },
+  {
+    "timestamp": "3:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 548
+      },
+      {
+        "name": "d2",
+        "value": 696
+      },
+      {
+        "name": "d3",
+        "value": 232
+      },
+      {
+        "name": "d4",
+        "value": 464
+      }
+    ]
+  },
+  {
+    "timestamp": "3:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 558
+      },
+      {
+        "name": "d2",
+        "value": 699
+      },
+      {
+        "name": "d3",
+        "value": 233
+      },
+      {
+        "name": "d4",
+        "value": 466
+      }
+    ]
+  },
+  {
+    "timestamp": "3:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 567
+      },
+      {
+        "name": "d2",
+        "value": 702
+      },
+      {
+        "name": "d3",
+        "value": 234
+      },
+      {
+        "name": "d4",
+        "value": 468
+      }
+    ]
+  },
+  {
+    "timestamp": "3:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 577
+      },
+      {
+        "name": "d2",
+        "value": 705
+      },
+      {
+        "name": "d3",
+        "value": 235
+      },
+      {
+        "name": "d4",
+        "value": 470
+      }
+    ]
+  },
+  {
+    "timestamp": "3:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 586
+      },
+      {
+        "name": "d2",
+        "value": 708
+      },
+      {
+        "name": "d3",
+        "value": 236
+      },
+      {
+        "name": "d4",
+        "value": 472
+      }
+    ]
+  },
+  {
+    "timestamp": "3:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 596
+      },
+      {
+        "name": "d2",
+        "value": 711
+      },
+      {
+        "name": "d3",
+        "value": 237
+      },
+      {
+        "name": "d4",
+        "value": 474
+      }
+    ]
+  },
+  {
+    "timestamp": "3:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 605
+      },
+      {
+        "name": "d2",
+        "value": 714
+      },
+      {
+        "name": "d3",
+        "value": 238
+      },
+      {
+        "name": "d4",
+        "value": 476
+      }
+    ]
+  },
+  {
+    "timestamp": "3:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 614
+      },
+      {
+        "name": "d2",
+        "value": 717
+      },
+      {
+        "name": "d3",
+        "value": 239
+      },
+      {
+        "name": "d4",
+        "value": 478
+      }
+    ]
+  },
+  {
+    "timestamp": "4:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 623
+      },
+      {
+        "name": "d2",
+        "value": 720
+      },
+      {
+        "name": "d3",
+        "value": 240
+      },
+      {
+        "name": "d4",
+        "value": 480
+      }
+    ]
+  },
+  {
+    "timestamp": "4:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 632
+      },
+      {
+        "name": "d2",
+        "value": 723
+      },
+      {
+        "name": "d3",
+        "value": 241
+      },
+      {
+        "name": "d4",
+        "value": 482
+      }
+    ]
+  },
+  {
+    "timestamp": "4:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 641
+      },
+      {
+        "name": "d2",
+        "value": 726
+      },
+      {
+        "name": "d3",
+        "value": 242
+      },
+      {
+        "name": "d4",
+        "value": 484
+      }
+    ]
+  },
+  {
+    "timestamp": "4:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 649
+      },
+      {
+        "name": "d2",
+        "value": 729
+      },
+      {
+        "name": "d3",
+        "value": 243
+      },
+      {
+        "name": "d4",
+        "value": 486
+      }
+    ]
+  },
+  {
+    "timestamp": "4:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 657
+      },
+      {
+        "name": "d2",
+        "value": 732
+      },
+      {
+        "name": "d3",
+        "value": 244
+      },
+      {
+        "name": "d4",
+        "value": 488
+      }
+    ]
+  },
+  {
+    "timestamp": "4:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 666
+      },
+      {
+        "name": "d2",
+        "value": 735
+      },
+      {
+        "name": "d3",
+        "value": 245
+      },
+      {
+        "name": "d4",
+        "value": 490
+      }
+    ]
+  },
+  {
+    "timestamp": "4:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 674
+      },
+      {
+        "name": "d2",
+        "value": 738
+      },
+      {
+        "name": "d3",
+        "value": 246
+      },
+      {
+        "name": "d4",
+        "value": 492
+      }
+    ]
+  },
+  {
+    "timestamp": "4:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 682
+      },
+      {
+        "name": "d2",
+        "value": 741
+      },
+      {
+        "name": "d3",
+        "value": 247
+      },
+      {
+        "name": "d4",
+        "value": 494
+      }
+    ]
+  },
+  {
+    "timestamp": "4:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 689
+      },
+      {
+        "name": "d2",
+        "value": 744
+      },
+      {
+        "name": "d3",
+        "value": 248
+      },
+      {
+        "name": "d4",
+        "value": 496
+      }
+    ]
+  },
+  {
+    "timestamp": "4:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 697
+      },
+      {
+        "name": "d2",
+        "value": 747
+      },
+      {
+        "name": "d3",
+        "value": 249
+      },
+      {
+        "name": "d4",
+        "value": 498
+      }
+    ]
+  },
+  {
+    "timestamp": "4:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 704
+      },
+      {
+        "name": "d2",
+        "value": 750
+      },
+      {
+        "name": "d3",
+        "value": 250
+      },
+      {
+        "name": "d4",
+        "value": 500
+      }
+    ]
+  },
+  {
+    "timestamp": "4:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 711
+      },
+      {
+        "name": "d2",
+        "value": 753
+      },
+      {
+        "name": "d3",
+        "value": 249
+      },
+      {
+        "name": "d4",
+        "value": 502
+      }
+    ]
+  },
+  {
+    "timestamp": "4:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 718
+      },
+      {
+        "name": "d2",
+        "value": 756
+      },
+      {
+        "name": "d3",
+        "value": 248
+      },
+      {
+        "name": "d4",
+        "value": 504
+      }
+    ]
+  },
+  {
+    "timestamp": "4:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 725
+      },
+      {
+        "name": "d2",
+        "value": 759
+      },
+      {
+        "name": "d3",
+        "value": 247
+      },
+      {
+        "name": "d4",
+        "value": 506
+      }
+    ]
+  },
+  {
+    "timestamp": "4:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 732
+      },
+      {
+        "name": "d2",
+        "value": 762
+      },
+      {
+        "name": "d3",
+        "value": 246
+      },
+      {
+        "name": "d4",
+        "value": 508
+      }
+    ]
+  },
+  {
+    "timestamp": "4:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 738
+      },
+      {
+        "name": "d2",
+        "value": 765
+      },
+      {
+        "name": "d3",
+        "value": 245
+      },
+      {
+        "name": "d4",
+        "value": 510
+      }
+    ]
+  },
+  {
+    "timestamp": "4:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 745
+      },
+      {
+        "name": "d2",
+        "value": 768
+      },
+      {
+        "name": "d3",
+        "value": 244
+      },
+      {
+        "name": "d4",
+        "value": 512
+      }
+    ]
+  },
+  {
+    "timestamp": "4:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 751
+      },
+      {
+        "name": "d2",
+        "value": 771
+      },
+      {
+        "name": "d3",
+        "value": 243
+      },
+      {
+        "name": "d4",
+        "value": 514
+      }
+    ]
+  },
+  {
+    "timestamp": "4:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 757
+      },
+      {
+        "name": "d2",
+        "value": 774
+      },
+      {
+        "name": "d3",
+        "value": 242
+      },
+      {
+        "name": "d4",
+        "value": 516
+      }
+    ]
+  },
+  {
+    "timestamp": "4:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 762
+      },
+      {
+        "name": "d2",
+        "value": 777
+      },
+      {
+        "name": "d3",
+        "value": 241
+      },
+      {
+        "name": "d4",
+        "value": 518
+      }
+    ]
+  },
+  {
+    "timestamp": "4:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 768
+      },
+      {
+        "name": "d2",
+        "value": 780
+      },
+      {
+        "name": "d3",
+        "value": 240
+      },
+      {
+        "name": "d4",
+        "value": 520
+      }
+    ]
+  },
+  {
+    "timestamp": "4:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 773
+      },
+      {
+        "name": "d2",
+        "value": 783
+      },
+      {
+        "name": "d3",
+        "value": 239
+      },
+      {
+        "name": "d4",
+        "value": 522
+      }
+    ]
+  },
+  {
+    "timestamp": "4:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 778
+      },
+      {
+        "name": "d2",
+        "value": 786
+      },
+      {
+        "name": "d3",
+        "value": 238
+      },
+      {
+        "name": "d4",
+        "value": 524
+      }
+    ]
+  },
+  {
+    "timestamp": "4:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 783
+      },
+      {
+        "name": "d2",
+        "value": 789
+      },
+      {
+        "name": "d3",
+        "value": 237
+      },
+      {
+        "name": "d4",
+        "value": 526
+      }
+    ]
+  },
+  {
+    "timestamp": "4:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 787
+      },
+      {
+        "name": "d2",
+        "value": 792
+      },
+      {
+        "name": "d3",
+        "value": 236
+      },
+      {
+        "name": "d4",
+        "value": 528
+      }
+    ]
+  },
+  {
+    "timestamp": "4:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 791
+      },
+      {
+        "name": "d2",
+        "value": 795
+      },
+      {
+        "name": "d3",
+        "value": 235
+      },
+      {
+        "name": "d4",
+        "value": 530
+      }
+    ]
+  },
+  {
+    "timestamp": "4:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 796
+      },
+      {
+        "name": "d2",
+        "value": 798
+      },
+      {
+        "name": "d3",
+        "value": 234
+      },
+      {
+        "name": "d4",
+        "value": 532
+      }
+    ]
+  },
+  {
+    "timestamp": "4:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 799
+      },
+      {
+        "name": "d2",
+        "value": 801
+      },
+      {
+        "name": "d3",
+        "value": 233
+      },
+      {
+        "name": "d4",
+        "value": 534
+      }
+    ]
+  },
+  {
+    "timestamp": "4:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 803
+      },
+      {
+        "name": "d2",
+        "value": 804
+      },
+      {
+        "name": "d3",
+        "value": 232
+      },
+      {
+        "name": "d4",
+        "value": 536
+      }
+    ]
+  },
+  {
+    "timestamp": "4:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 806
+      },
+      {
+        "name": "d2",
+        "value": 807
+      },
+      {
+        "name": "d3",
+        "value": 231
+      },
+      {
+        "name": "d4",
+        "value": 538
+      }
+    ]
+  },
+  {
+    "timestamp": "4:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 810
+      },
+      {
+        "name": "d2",
+        "value": 810
+      },
+      {
+        "name": "d3",
+        "value": 230
+      },
+      {
+        "name": "d4",
+        "value": 540
+      }
+    ]
+  },
+  {
+    "timestamp": "4:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 812
+      },
+      {
+        "name": "d2",
+        "value": 813
+      },
+      {
+        "name": "d3",
+        "value": 229
+      },
+      {
+        "name": "d4",
+        "value": 542
+      }
+    ]
+  },
+  {
+    "timestamp": "4:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 815
+      },
+      {
+        "name": "d2",
+        "value": 816
+      },
+      {
+        "name": "d3",
+        "value": 228
+      },
+      {
+        "name": "d4",
+        "value": 544
+      }
+    ]
+  },
+  {
+    "timestamp": "4:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 817
+      },
+      {
+        "name": "d2",
+        "value": 819
+      },
+      {
+        "name": "d3",
+        "value": 227
+      },
+      {
+        "name": "d4",
+        "value": 546
+      }
+    ]
+  },
+  {
+    "timestamp": "4:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 819
+      },
+      {
+        "name": "d2",
+        "value": 822
+      },
+      {
+        "name": "d3",
+        "value": 226
+      },
+      {
+        "name": "d4",
+        "value": 548
+      }
+    ]
+  },
+  {
+    "timestamp": "4:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 821
+      },
+      {
+        "name": "d2",
+        "value": 825
+      },
+      {
+        "name": "d3",
+        "value": 225
+      },
+      {
+        "name": "d4",
+        "value": 550
+      }
+    ]
+  },
+  {
+    "timestamp": "4:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 823
+      },
+      {
+        "name": "d2",
+        "value": 828
+      },
+      {
+        "name": "d3",
+        "value": 224
+      },
+      {
+        "name": "d4",
+        "value": 552
+      }
+    ]
+  },
+  {
+    "timestamp": "4:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 824
+      },
+      {
+        "name": "d2",
+        "value": 831
+      },
+      {
+        "name": "d3",
+        "value": 223
+      },
+      {
+        "name": "d4",
+        "value": 554
+      }
+    ]
+  },
+  {
+    "timestamp": "4:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 825
+      },
+      {
+        "name": "d2",
+        "value": 834
+      },
+      {
+        "name": "d3",
+        "value": 222
+      },
+      {
+        "name": "d4",
+        "value": 556
+      }
+    ]
+  },
+  {
+    "timestamp": "4:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 826
+      },
+      {
+        "name": "d2",
+        "value": 837
+      },
+      {
+        "name": "d3",
+        "value": 221
+      },
+      {
+        "name": "d4",
+        "value": 558
+      }
+    ]
+  },
+  {
+    "timestamp": "4:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 827
+      },
+      {
+        "name": "d2",
+        "value": 840
+      },
+      {
+        "name": "d3",
+        "value": 220
+      },
+      {
+        "name": "d4",
+        "value": 560
+      }
+    ]
+  },
+  {
+    "timestamp": "4:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 827
+      },
+      {
+        "name": "d2",
+        "value": 843
+      },
+      {
+        "name": "d3",
+        "value": 219
+      },
+      {
+        "name": "d4",
+        "value": 562
+      }
+    ]
+  },
+  {
+    "timestamp": "4:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 827
+      },
+      {
+        "name": "d2",
+        "value": 846
+      },
+      {
+        "name": "d3",
+        "value": 218
+      },
+      {
+        "name": "d4",
+        "value": 564
+      }
+    ]
+  },
+  {
+    "timestamp": "4:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 827
+      },
+      {
+        "name": "d2",
+        "value": 849
+      },
+      {
+        "name": "d3",
+        "value": 217
+      },
+      {
+        "name": "d4",
+        "value": 566
+      }
+    ]
+  },
+  {
+    "timestamp": "4:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 826
+      },
+      {
+        "name": "d2",
+        "value": 852
+      },
+      {
+        "name": "d3",
+        "value": 216
+      },
+      {
+        "name": "d4",
+        "value": 568
+      }
+    ]
+  },
+  {
+    "timestamp": "4:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 825
+      },
+      {
+        "name": "d2",
+        "value": 855
+      },
+      {
+        "name": "d3",
+        "value": 215
+      },
+      {
+        "name": "d4",
+        "value": 570
+      }
+    ]
+  },
+  {
+    "timestamp": "4:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 824
+      },
+      {
+        "name": "d2",
+        "value": 858
+      },
+      {
+        "name": "d3",
+        "value": 214
+      },
+      {
+        "name": "d4",
+        "value": 572
+      }
+    ]
+  },
+  {
+    "timestamp": "4:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 823
+      },
+      {
+        "name": "d2",
+        "value": 861
+      },
+      {
+        "name": "d3",
+        "value": 213
+      },
+      {
+        "name": "d4",
+        "value": 574
+      }
+    ]
+  },
+  {
+    "timestamp": "4:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 821
+      },
+      {
+        "name": "d2",
+        "value": 864
+      },
+      {
+        "name": "d3",
+        "value": 212
+      },
+      {
+        "name": "d4",
+        "value": 576
+      }
+    ]
+  },
+  {
+    "timestamp": "4:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 819
+      },
+      {
+        "name": "d2",
+        "value": 867
+      },
+      {
+        "name": "d3",
+        "value": 211
+      },
+      {
+        "name": "d4",
+        "value": 578
+      }
+    ]
+  },
+  {
+    "timestamp": "4:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 817
+      },
+      {
+        "name": "d2",
+        "value": 870
+      },
+      {
+        "name": "d3",
+        "value": 210
+      },
+      {
+        "name": "d4",
+        "value": 580
+      }
+    ]
+  },
+  {
+    "timestamp": "4:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 815
+      },
+      {
+        "name": "d2",
+        "value": 873
+      },
+      {
+        "name": "d3",
+        "value": 209
+      },
+      {
+        "name": "d4",
+        "value": 582
+      }
+    ]
+  },
+  {
+    "timestamp": "4:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 812
+      },
+      {
+        "name": "d2",
+        "value": 876
+      },
+      {
+        "name": "d3",
+        "value": 208
+      },
+      {
+        "name": "d4",
+        "value": 584
+      }
+    ]
+  },
+  {
+    "timestamp": "4:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 809
+      },
+      {
+        "name": "d2",
+        "value": 879
+      },
+      {
+        "name": "d3",
+        "value": 207
+      },
+      {
+        "name": "d4",
+        "value": 586
+      }
+    ]
+  },
+  {
+    "timestamp": "4:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 805
+      },
+      {
+        "name": "d2",
+        "value": 882
+      },
+      {
+        "name": "d3",
+        "value": 206
+      },
+      {
+        "name": "d4",
+        "value": 588
+      }
+    ]
+  },
+  {
+    "timestamp": "4:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 802
+      },
+      {
+        "name": "d2",
+        "value": 885
+      },
+      {
+        "name": "d3",
+        "value": 205
+      },
+      {
+        "name": "d4",
+        "value": 590
+      }
+    ]
+  },
+  {
+    "timestamp": "4:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 798
+      },
+      {
+        "name": "d2",
+        "value": 888
+      },
+      {
+        "name": "d3",
+        "value": 204
+      },
+      {
+        "name": "d4",
+        "value": 592
+      }
+    ]
+  },
+  {
+    "timestamp": "4:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 793
+      },
+      {
+        "name": "d2",
+        "value": 891
+      },
+      {
+        "name": "d3",
+        "value": 203
+      },
+      {
+        "name": "d4",
+        "value": 594
+      }
+    ]
+  },
+  {
+    "timestamp": "4:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 789
+      },
+      {
+        "name": "d2",
+        "value": 894
+      },
+      {
+        "name": "d3",
+        "value": 202
+      },
+      {
+        "name": "d4",
+        "value": 596
+      }
+    ]
+  },
+  {
+    "timestamp": "4:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 784
+      },
+      {
+        "name": "d2",
+        "value": 897
+      },
+      {
+        "name": "d3",
+        "value": 201
+      },
+      {
+        "name": "d4",
+        "value": 598
+      }
+    ]
+  },
+  {
+    "timestamp": "5:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 779
+      },
+      {
+        "name": "d2",
+        "value": 900
+      },
+      {
+        "name": "d3",
+        "value": 200
+      },
+      {
+        "name": "d4",
+        "value": 600
+      }
+    ]
+  },
+  {
+    "timestamp": "5:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 774
+      },
+      {
+        "name": "d2",
+        "value": 903
+      },
+      {
+        "name": "d3",
+        "value": 199
+      },
+      {
+        "name": "d4",
+        "value": 602
+      }
+    ]
+  },
+  {
+    "timestamp": "5:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 768
+      },
+      {
+        "name": "d2",
+        "value": 906
+      },
+      {
+        "name": "d3",
+        "value": 198
+      },
+      {
+        "name": "d4",
+        "value": 604
+      }
+    ]
+  },
+  {
+    "timestamp": "5:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 762
+      },
+      {
+        "name": "d2",
+        "value": 909
+      },
+      {
+        "name": "d3",
+        "value": 197
+      },
+      {
+        "name": "d4",
+        "value": 606
+      }
+    ]
+  },
+  {
+    "timestamp": "5:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 756
+      },
+      {
+        "name": "d2",
+        "value": 912
+      },
+      {
+        "name": "d3",
+        "value": 196
+      },
+      {
+        "name": "d4",
+        "value": 608
+      }
+    ]
+  },
+  {
+    "timestamp": "5:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 749
+      },
+      {
+        "name": "d2",
+        "value": 915
+      },
+      {
+        "name": "d3",
+        "value": 195
+      },
+      {
+        "name": "d4",
+        "value": 610
+      }
+    ]
+  },
+  {
+    "timestamp": "5:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 742
+      },
+      {
+        "name": "d2",
+        "value": 918
+      },
+      {
+        "name": "d3",
+        "value": 194
+      },
+      {
+        "name": "d4",
+        "value": 612
+      }
+    ]
+  },
+  {
+    "timestamp": "5:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 735
+      },
+      {
+        "name": "d2",
+        "value": 921
+      },
+      {
+        "name": "d3",
+        "value": 193
+      },
+      {
+        "name": "d4",
+        "value": 614
+      }
+    ]
+  },
+  {
+    "timestamp": "5:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 728
+      },
+      {
+        "name": "d2",
+        "value": 924
+      },
+      {
+        "name": "d3",
+        "value": 192
+      },
+      {
+        "name": "d4",
+        "value": 616
+      }
+    ]
+  },
+  {
+    "timestamp": "5:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 720
+      },
+      {
+        "name": "d2",
+        "value": 927
+      },
+      {
+        "name": "d3",
+        "value": 191
+      },
+      {
+        "name": "d4",
+        "value": 618
+      }
+    ]
+  },
+  {
+    "timestamp": "5:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 712
+      },
+      {
+        "name": "d2",
+        "value": 930
+      },
+      {
+        "name": "d3",
+        "value": 190
+      },
+      {
+        "name": "d4",
+        "value": 620
+      }
+    ]
+  },
+  {
+    "timestamp": "5:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 704
+      },
+      {
+        "name": "d2",
+        "value": 933
+      },
+      {
+        "name": "d3",
+        "value": 189
+      },
+      {
+        "name": "d4",
+        "value": 622
+      }
+    ]
+  },
+  {
+    "timestamp": "5:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 695
+      },
+      {
+        "name": "d2",
+        "value": 936
+      },
+      {
+        "name": "d3",
+        "value": 188
+      },
+      {
+        "name": "d4",
+        "value": 624
+      }
+    ]
+  },
+  {
+    "timestamp": "5:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 686
+      },
+      {
+        "name": "d2",
+        "value": 939
+      },
+      {
+        "name": "d3",
+        "value": 187
+      },
+      {
+        "name": "d4",
+        "value": 626
+      }
+    ]
+  },
+  {
+    "timestamp": "5:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 677
+      },
+      {
+        "name": "d2",
+        "value": 942
+      },
+      {
+        "name": "d3",
+        "value": 186
+      },
+      {
+        "name": "d4",
+        "value": 628
+      }
+    ]
+  },
+  {
+    "timestamp": "5:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 668
+      },
+      {
+        "name": "d2",
+        "value": 945
+      },
+      {
+        "name": "d3",
+        "value": 185
+      },
+      {
+        "name": "d4",
+        "value": 630
+      }
+    ]
+  },
+  {
+    "timestamp": "5:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 658
+      },
+      {
+        "name": "d2",
+        "value": 948
+      },
+      {
+        "name": "d3",
+        "value": 184
+      },
+      {
+        "name": "d4",
+        "value": 632
+      }
+    ]
+  },
+  {
+    "timestamp": "5:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 648
+      },
+      {
+        "name": "d2",
+        "value": 951
+      },
+      {
+        "name": "d3",
+        "value": 183
+      },
+      {
+        "name": "d4",
+        "value": 634
+      }
+    ]
+  },
+  {
+    "timestamp": "5:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 638
+      },
+      {
+        "name": "d2",
+        "value": 954
+      },
+      {
+        "name": "d3",
+        "value": 182
+      },
+      {
+        "name": "d4",
+        "value": 636
+      }
+    ]
+  },
+  {
+    "timestamp": "5:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 627
+      },
+      {
+        "name": "d2",
+        "value": 957
+      },
+      {
+        "name": "d3",
+        "value": 181
+      },
+      {
+        "name": "d4",
+        "value": 638
+      }
+    ]
+  },
+  {
+    "timestamp": "5:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 617
+      },
+      {
+        "name": "d2",
+        "value": 960
+      },
+      {
+        "name": "d3",
+        "value": 180
+      },
+      {
+        "name": "d4",
+        "value": 640
+      }
+    ]
+  },
+  {
+    "timestamp": "5:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 606
+      },
+      {
+        "name": "d2",
+        "value": 963
+      },
+      {
+        "name": "d3",
+        "value": 179
+      },
+      {
+        "name": "d4",
+        "value": 642
+      }
+    ]
+  },
+  {
+    "timestamp": "5:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 594
+      },
+      {
+        "name": "d2",
+        "value": 966
+      },
+      {
+        "name": "d3",
+        "value": 178
+      },
+      {
+        "name": "d4",
+        "value": 644
+      }
+    ]
+  },
+  {
+    "timestamp": "5:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 583
+      },
+      {
+        "name": "d2",
+        "value": 969
+      },
+      {
+        "name": "d3",
+        "value": 177
+      },
+      {
+        "name": "d4",
+        "value": 646
+      }
+    ]
+  },
+  {
+    "timestamp": "5:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 571
+      },
+      {
+        "name": "d2",
+        "value": 972
+      },
+      {
+        "name": "d3",
+        "value": 176
+      },
+      {
+        "name": "d4",
+        "value": 648
+      }
+    ]
+  },
+  {
+    "timestamp": "5:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 559
+      },
+      {
+        "name": "d2",
+        "value": 975
+      },
+      {
+        "name": "d3",
+        "value": 175
+      },
+      {
+        "name": "d4",
+        "value": 650
+      }
+    ]
+  },
+  {
+    "timestamp": "5:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 546
+      },
+      {
+        "name": "d2",
+        "value": 978
+      },
+      {
+        "name": "d3",
+        "value": 174
+      },
+      {
+        "name": "d4",
+        "value": 652
+      }
+    ]
+  },
+  {
+    "timestamp": "5:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 534
+      },
+      {
+        "name": "d2",
+        "value": 981
+      },
+      {
+        "name": "d3",
+        "value": 173
+      },
+      {
+        "name": "d4",
+        "value": 654
+      }
+    ]
+  },
+  {
+    "timestamp": "5:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 521
+      },
+      {
+        "name": "d2",
+        "value": 984
+      },
+      {
+        "name": "d3",
+        "value": 172
+      },
+      {
+        "name": "d4",
+        "value": 656
+      }
+    ]
+  },
+  {
+    "timestamp": "5:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 508
+      },
+      {
+        "name": "d2",
+        "value": 987
+      },
+      {
+        "name": "d3",
+        "value": 171
+      },
+      {
+        "name": "d4",
+        "value": 658
+      }
+    ]
+  },
+  {
+    "timestamp": "5:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 495
+      },
+      {
+        "name": "d2",
+        "value": 990
+      },
+      {
+        "name": "d3",
+        "value": 170
+      },
+      {
+        "name": "d4",
+        "value": 660
+      }
+    ]
+  },
+  {
+    "timestamp": "5:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 481
+      },
+      {
+        "name": "d2",
+        "value": 993
+      },
+      {
+        "name": "d3",
+        "value": 169
+      },
+      {
+        "name": "d4",
+        "value": 662
+      }
+    ]
+  },
+  {
+    "timestamp": "5:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 467
+      },
+      {
+        "name": "d2",
+        "value": 996
+      },
+      {
+        "name": "d3",
+        "value": 168
+      },
+      {
+        "name": "d4",
+        "value": 664
+      }
+    ]
+  },
+  {
+    "timestamp": "5:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 453
+      },
+      {
+        "name": "d2",
+        "value": 999
+      },
+      {
+        "name": "d3",
+        "value": 167
+      },
+      {
+        "name": "d4",
+        "value": 666
+      }
+    ]
+  },
+  {
+    "timestamp": "5:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 439
+      },
+      {
+        "name": "d2",
+        "value": 1002
+      },
+      {
+        "name": "d3",
+        "value": 166
+      },
+      {
+        "name": "d4",
+        "value": 668
+      }
+    ]
+  },
+  {
+    "timestamp": "5:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 424
+      },
+      {
+        "name": "d2",
+        "value": 1005
+      },
+      {
+        "name": "d3",
+        "value": 165
+      },
+      {
+        "name": "d4",
+        "value": 670
+      }
+    ]
+  },
+  {
+    "timestamp": "5:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 409
+      },
+      {
+        "name": "d2",
+        "value": 1008
+      },
+      {
+        "name": "d3",
+        "value": 164
+      },
+      {
+        "name": "d4",
+        "value": 672
+      }
+    ]
+  },
+  {
+    "timestamp": "5:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 395
+      },
+      {
+        "name": "d2",
+        "value": 1011
+      },
+      {
+        "name": "d3",
+        "value": 163
+      },
+      {
+        "name": "d4",
+        "value": 674
+      }
+    ]
+  },
+  {
+    "timestamp": "5:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 379
+      },
+      {
+        "name": "d2",
+        "value": 1014
+      },
+      {
+        "name": "d3",
+        "value": 162
+      },
+      {
+        "name": "d4",
+        "value": 676
+      }
+    ]
+  },
+  {
+    "timestamp": "5:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 364
+      },
+      {
+        "name": "d2",
+        "value": 1017
+      },
+      {
+        "name": "d3",
+        "value": 161
+      },
+      {
+        "name": "d4",
+        "value": 678
+      }
+    ]
+  },
+  {
+    "timestamp": "5:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 348
+      },
+      {
+        "name": "d2",
+        "value": 1020
+      },
+      {
+        "name": "d3",
+        "value": 160
+      },
+      {
+        "name": "d4",
+        "value": 680
+      }
+    ]
+  },
+  {
+    "timestamp": "5:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 333
+      },
+      {
+        "name": "d2",
+        "value": 1023
+      },
+      {
+        "name": "d3",
+        "value": 159
+      },
+      {
+        "name": "d4",
+        "value": 682
+      }
+    ]
+  },
+  {
+    "timestamp": "5:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 317
+      },
+      {
+        "name": "d2",
+        "value": 1026
+      },
+      {
+        "name": "d3",
+        "value": 158
+      },
+      {
+        "name": "d4",
+        "value": 684
+      }
+    ]
+  },
+  {
+    "timestamp": "5:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 300
+      },
+      {
+        "name": "d2",
+        "value": 1029
+      },
+      {
+        "name": "d3",
+        "value": 157
+      },
+      {
+        "name": "d4",
+        "value": 686
+      }
+    ]
+  },
+  {
+    "timestamp": "5:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 284
+      },
+      {
+        "name": "d2",
+        "value": 1032
+      },
+      {
+        "name": "d3",
+        "value": 156
+      },
+      {
+        "name": "d4",
+        "value": 688
+      }
+    ]
+  },
+  {
+    "timestamp": "5:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 267
+      },
+      {
+        "name": "d2",
+        "value": 1035
+      },
+      {
+        "name": "d3",
+        "value": 155
+      },
+      {
+        "name": "d4",
+        "value": 690
+      }
+    ]
+  },
+  {
+    "timestamp": "5:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 251
+      },
+      {
+        "name": "d2",
+        "value": 1038
+      },
+      {
+        "name": "d3",
+        "value": 154
+      },
+      {
+        "name": "d4",
+        "value": 692
+      }
+    ]
+  },
+  {
+    "timestamp": "5:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 234
+      },
+      {
+        "name": "d2",
+        "value": 1041
+      },
+      {
+        "name": "d3",
+        "value": 153
+      },
+      {
+        "name": "d4",
+        "value": 694
+      }
+    ]
+  },
+  {
+    "timestamp": "5:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 217
+      },
+      {
+        "name": "d2",
+        "value": 1044
+      },
+      {
+        "name": "d3",
+        "value": 152
+      },
+      {
+        "name": "d4",
+        "value": 696
+      }
+    ]
+  },
+  {
+    "timestamp": "5:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 199
+      },
+      {
+        "name": "d2",
+        "value": 1047
+      },
+      {
+        "name": "d3",
+        "value": 151
+      },
+      {
+        "name": "d4",
+        "value": 698
+      }
+    ]
+  },
+  {
+    "timestamp": "5:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 182
+      },
+      {
+        "name": "d2",
+        "value": 1050
+      },
+      {
+        "name": "d3",
+        "value": 150
+      },
+      {
+        "name": "d4",
+        "value": 700
+      }
+    ]
+  },
+  {
+    "timestamp": "5:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 164
+      },
+      {
+        "name": "d2",
+        "value": 1053
+      },
+      {
+        "name": "d3",
+        "value": 149
+      },
+      {
+        "name": "d4",
+        "value": 702
+      }
+    ]
+  },
+  {
+    "timestamp": "5:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 146
+      },
+      {
+        "name": "d2",
+        "value": 1056
+      },
+      {
+        "name": "d3",
+        "value": 148
+      },
+      {
+        "name": "d4",
+        "value": 704
+      }
+    ]
+  },
+  {
+    "timestamp": "5:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 129
+      },
+      {
+        "name": "d2",
+        "value": 1059
+      },
+      {
+        "name": "d3",
+        "value": 147
+      },
+      {
+        "name": "d4",
+        "value": 706
+      }
+    ]
+  },
+  {
+    "timestamp": "5:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 111
+      },
+      {
+        "name": "d2",
+        "value": 1062
+      },
+      {
+        "name": "d3",
+        "value": 146
+      },
+      {
+        "name": "d4",
+        "value": 708
+      }
+    ]
+  },
+  {
+    "timestamp": "5:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 92
+      },
+      {
+        "name": "d2",
+        "value": 1065
+      },
+      {
+        "name": "d3",
+        "value": 145
+      },
+      {
+        "name": "d4",
+        "value": 710
+      }
+    ]
+  },
+  {
+    "timestamp": "5:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 74
+      },
+      {
+        "name": "d2",
+        "value": 1068
+      },
+      {
+        "name": "d3",
+        "value": 144
+      },
+      {
+        "name": "d4",
+        "value": 712
+      }
+    ]
+  },
+  {
+    "timestamp": "5:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 56
+      },
+      {
+        "name": "d2",
+        "value": 1071
+      },
+      {
+        "name": "d3",
+        "value": 143
+      },
+      {
+        "name": "d4",
+        "value": 714
+      }
+    ]
+  },
+  {
+    "timestamp": "5:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 37
+      },
+      {
+        "name": "d2",
+        "value": 1074
+      },
+      {
+        "name": "d3",
+        "value": 142
+      },
+      {
+        "name": "d4",
+        "value": 716
+      }
+    ]
+  },
+  {
+    "timestamp": "5:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 18
+      },
+      {
+        "name": "d2",
+        "value": 1077
+      },
+      {
+        "name": "d3",
+        "value": 141
+      },
+      {
+        "name": "d4",
+        "value": 718
+      }
+    ]
+  },
+  {
+    "timestamp": "6:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 0
+      },
+      {
+        "name": "d2",
+        "value": 1080
+      },
+      {
+        "name": "d3",
+        "value": 140
+      },
+      {
+        "name": "d4",
+        "value": 720
+      }
+    ]
+  },
+  {
+    "timestamp": "6:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 18
+      },
+      {
+        "name": "d2",
+        "value": 1083
+      },
+      {
+        "name": "d3",
+        "value": 139
+      },
+      {
+        "name": "d4",
+        "value": 722
+      }
+    ]
+  },
+  {
+    "timestamp": "6:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 37
+      },
+      {
+        "name": "d2",
+        "value": 1086
+      },
+      {
+        "name": "d3",
+        "value": 138
+      },
+      {
+        "name": "d4",
+        "value": 724
+      }
+    ]
+  },
+  {
+    "timestamp": "6:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 56
+      },
+      {
+        "name": "d2",
+        "value": 1089
+      },
+      {
+        "name": "d3",
+        "value": 137
+      },
+      {
+        "name": "d4",
+        "value": 726
+      }
+    ]
+  },
+  {
+    "timestamp": "6:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 76
+      },
+      {
+        "name": "d2",
+        "value": 1092
+      },
+      {
+        "name": "d3",
+        "value": 136
+      },
+      {
+        "name": "d4",
+        "value": 728
+      }
+    ]
+  },
+  {
+    "timestamp": "6:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 95
+      },
+      {
+        "name": "d2",
+        "value": 1095
+      },
+      {
+        "name": "d3",
+        "value": 135
+      },
+      {
+        "name": "d4",
+        "value": 730
+      }
+    ]
+  },
+  {
+    "timestamp": "6:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 114
+      },
+      {
+        "name": "d2",
+        "value": 1098
+      },
+      {
+        "name": "d3",
+        "value": 134
+      },
+      {
+        "name": "d4",
+        "value": 732
+      }
+    ]
+  },
+  {
+    "timestamp": "6:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 134
+      },
+      {
+        "name": "d2",
+        "value": 1101
+      },
+      {
+        "name": "d3",
+        "value": 133
+      },
+      {
+        "name": "d4",
+        "value": 734
+      }
+    ]
+  },
+  {
+    "timestamp": "6:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 153
+      },
+      {
+        "name": "d2",
+        "value": 1104
+      },
+      {
+        "name": "d3",
+        "value": 132
+      },
+      {
+        "name": "d4",
+        "value": 736
+      }
+    ]
+  },
+  {
+    "timestamp": "6:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 173
+      },
+      {
+        "name": "d2",
+        "value": 1107
+      },
+      {
+        "name": "d3",
+        "value": 131
+      },
+      {
+        "name": "d4",
+        "value": 738
+      }
+    ]
+  },
+  {
+    "timestamp": "6:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 192
+      },
+      {
+        "name": "d2",
+        "value": 1110
+      },
+      {
+        "name": "d3",
+        "value": 130
+      },
+      {
+        "name": "d4",
+        "value": 740
+      }
+    ]
+  },
+  {
+    "timestamp": "6:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 212
+      },
+      {
+        "name": "d2",
+        "value": 1113
+      },
+      {
+        "name": "d3",
+        "value": 129
+      },
+      {
+        "name": "d4",
+        "value": 742
+      }
+    ]
+  },
+  {
+    "timestamp": "6:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 232
+      },
+      {
+        "name": "d2",
+        "value": 1116
+      },
+      {
+        "name": "d3",
+        "value": 128
+      },
+      {
+        "name": "d4",
+        "value": 744
+      }
+    ]
+  },
+  {
+    "timestamp": "6:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 251
+      },
+      {
+        "name": "d2",
+        "value": 1119
+      },
+      {
+        "name": "d3",
+        "value": 127
+      },
+      {
+        "name": "d4",
+        "value": 746
+      }
+    ]
+  },
+  {
+    "timestamp": "6:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 271
+      },
+      {
+        "name": "d2",
+        "value": 1122
+      },
+      {
+        "name": "d3",
+        "value": 126
+      },
+      {
+        "name": "d4",
+        "value": 748
+      }
+    ]
+  },
+  {
+    "timestamp": "6:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 291
+      },
+      {
+        "name": "d2",
+        "value": 1125
+      },
+      {
+        "name": "d3",
+        "value": 125
+      },
+      {
+        "name": "d4",
+        "value": 750
+      }
+    ]
+  },
+  {
+    "timestamp": "6:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 310
+      },
+      {
+        "name": "d2",
+        "value": 1128
+      },
+      {
+        "name": "d3",
+        "value": 124
+      },
+      {
+        "name": "d4",
+        "value": 752
+      }
+    ]
+  },
+  {
+    "timestamp": "6:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 330
+      },
+      {
+        "name": "d2",
+        "value": 1131
+      },
+      {
+        "name": "d3",
+        "value": 123
+      },
+      {
+        "name": "d4",
+        "value": 754
+      }
+    ]
+  },
+  {
+    "timestamp": "6:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 350
+      },
+      {
+        "name": "d2",
+        "value": 1134
+      },
+      {
+        "name": "d3",
+        "value": 122
+      },
+      {
+        "name": "d4",
+        "value": 756
+      }
+    ]
+  },
+  {
+    "timestamp": "6:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 370
+      },
+      {
+        "name": "d2",
+        "value": 1137
+      },
+      {
+        "name": "d3",
+        "value": 121
+      },
+      {
+        "name": "d4",
+        "value": 758
+      }
+    ]
+  },
+  {
+    "timestamp": "6:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 389
+      },
+      {
+        "name": "d2",
+        "value": 1140
+      },
+      {
+        "name": "d3",
+        "value": 120
+      },
+      {
+        "name": "d4",
+        "value": 760
+      }
+    ]
+  },
+  {
+    "timestamp": "6:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 409
+      },
+      {
+        "name": "d2",
+        "value": 1143
+      },
+      {
+        "name": "d3",
+        "value": 119
+      },
+      {
+        "name": "d4",
+        "value": 762
+      }
+    ]
+  },
+  {
+    "timestamp": "6:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 429
+      },
+      {
+        "name": "d2",
+        "value": 1146
+      },
+      {
+        "name": "d3",
+        "value": 118
+      },
+      {
+        "name": "d4",
+        "value": 764
+      }
+    ]
+  },
+  {
+    "timestamp": "6:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 448
+      },
+      {
+        "name": "d2",
+        "value": 1149
+      },
+      {
+        "name": "d3",
+        "value": 117
+      },
+      {
+        "name": "d4",
+        "value": 766
+      }
+    ]
+  },
+  {
+    "timestamp": "6:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 468
+      },
+      {
+        "name": "d2",
+        "value": 1152
+      },
+      {
+        "name": "d3",
+        "value": 116
+      },
+      {
+        "name": "d4",
+        "value": 768
+      }
+    ]
+  },
+  {
+    "timestamp": "6:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 488
+      },
+      {
+        "name": "d2",
+        "value": 1155
+      },
+      {
+        "name": "d3",
+        "value": 115
+      },
+      {
+        "name": "d4",
+        "value": 770
+      }
+    ]
+  },
+  {
+    "timestamp": "6:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 507
+      },
+      {
+        "name": "d2",
+        "value": 1158
+      },
+      {
+        "name": "d3",
+        "value": 114
+      },
+      {
+        "name": "d4",
+        "value": 772
+      }
+    ]
+  },
+  {
+    "timestamp": "6:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 527
+      },
+      {
+        "name": "d2",
+        "value": 1161
+      },
+      {
+        "name": "d3",
+        "value": 113
+      },
+      {
+        "name": "d4",
+        "value": 774
+      }
+    ]
+  },
+  {
+    "timestamp": "6:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 546
+      },
+      {
+        "name": "d2",
+        "value": 1164
+      },
+      {
+        "name": "d3",
+        "value": 112
+      },
+      {
+        "name": "d4",
+        "value": 776
+      }
+    ]
+  },
+  {
+    "timestamp": "6:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 565
+      },
+      {
+        "name": "d2",
+        "value": 1167
+      },
+      {
+        "name": "d3",
+        "value": 111
+      },
+      {
+        "name": "d4",
+        "value": 778
+      }
+    ]
+  },
+  {
+    "timestamp": "6:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 585
+      },
+      {
+        "name": "d2",
+        "value": 1170
+      },
+      {
+        "name": "d3",
+        "value": 110
+      },
+      {
+        "name": "d4",
+        "value": 780
+      }
+    ]
+  },
+  {
+    "timestamp": "6:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 604
+      },
+      {
+        "name": "d2",
+        "value": 1173
+      },
+      {
+        "name": "d3",
+        "value": 109
+      },
+      {
+        "name": "d4",
+        "value": 782
+      }
+    ]
+  },
+  {
+    "timestamp": "6:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 623
+      },
+      {
+        "name": "d2",
+        "value": 1176
+      },
+      {
+        "name": "d3",
+        "value": 108
+      },
+      {
+        "name": "d4",
+        "value": 784
+      }
+    ]
+  },
+  {
+    "timestamp": "6:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 642
+      },
+      {
+        "name": "d2",
+        "value": 1179
+      },
+      {
+        "name": "d3",
+        "value": 107
+      },
+      {
+        "name": "d4",
+        "value": 786
+      }
+    ]
+  },
+  {
+    "timestamp": "6:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 660
+      },
+      {
+        "name": "d2",
+        "value": 1182
+      },
+      {
+        "name": "d3",
+        "value": 106
+      },
+      {
+        "name": "d4",
+        "value": 788
+      }
+    ]
+  },
+  {
+    "timestamp": "6:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 679
+      },
+      {
+        "name": "d2",
+        "value": 1185
+      },
+      {
+        "name": "d3",
+        "value": 105
+      },
+      {
+        "name": "d4",
+        "value": 790
+      }
+    ]
+  },
+  {
+    "timestamp": "6:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 698
+      },
+      {
+        "name": "d2",
+        "value": 1188
+      },
+      {
+        "name": "d3",
+        "value": 104
+      },
+      {
+        "name": "d4",
+        "value": 792
+      }
+    ]
+  },
+  {
+    "timestamp": "6:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 716
+      },
+      {
+        "name": "d2",
+        "value": 1191
+      },
+      {
+        "name": "d3",
+        "value": 103
+      },
+      {
+        "name": "d4",
+        "value": 794
+      }
+    ]
+  },
+  {
+    "timestamp": "6:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 735
+      },
+      {
+        "name": "d2",
+        "value": 1194
+      },
+      {
+        "name": "d3",
+        "value": 102
+      },
+      {
+        "name": "d4",
+        "value": 796
+      }
+    ]
+  },
+  {
+    "timestamp": "6:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 753
+      },
+      {
+        "name": "d2",
+        "value": 1197
+      },
+      {
+        "name": "d3",
+        "value": 101
+      },
+      {
+        "name": "d4",
+        "value": 798
+      }
+    ]
+  },
+  {
+    "timestamp": "6:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 771
+      },
+      {
+        "name": "d2",
+        "value": 1200
+      },
+      {
+        "name": "d3",
+        "value": 100
+      },
+      {
+        "name": "d4",
+        "value": 800
+      }
+    ]
+  },
+  {
+    "timestamp": "6:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 789
+      },
+      {
+        "name": "d2",
+        "value": 1203
+      },
+      {
+        "name": "d3",
+        "value": 99
+      },
+      {
+        "name": "d4",
+        "value": 802
+      }
+    ]
+  },
+  {
+    "timestamp": "6:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 806
+      },
+      {
+        "name": "d2",
+        "value": 1206
+      },
+      {
+        "name": "d3",
+        "value": 98
+      },
+      {
+        "name": "d4",
+        "value": 804
+      }
+    ]
+  },
+  {
+    "timestamp": "6:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 824
+      },
+      {
+        "name": "d2",
+        "value": 1209
+      },
+      {
+        "name": "d3",
+        "value": 97
+      },
+      {
+        "name": "d4",
+        "value": 806
+      }
+    ]
+  },
+  {
+    "timestamp": "6:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 841
+      },
+      {
+        "name": "d2",
+        "value": 1212
+      },
+      {
+        "name": "d3",
+        "value": 96
+      },
+      {
+        "name": "d4",
+        "value": 808
+      }
+    ]
+  },
+  {
+    "timestamp": "6:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 859
+      },
+      {
+        "name": "d2",
+        "value": 1215
+      },
+      {
+        "name": "d3",
+        "value": 95
+      },
+      {
+        "name": "d4",
+        "value": 810
+      }
+    ]
+  },
+  {
+    "timestamp": "6:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 876
+      },
+      {
+        "name": "d2",
+        "value": 1218
+      },
+      {
+        "name": "d3",
+        "value": 94
+      },
+      {
+        "name": "d4",
+        "value": 812
+      }
+    ]
+  },
+  {
+    "timestamp": "6:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 892
+      },
+      {
+        "name": "d2",
+        "value": 1221
+      },
+      {
+        "name": "d3",
+        "value": 93
+      },
+      {
+        "name": "d4",
+        "value": 814
+      }
+    ]
+  },
+  {
+    "timestamp": "6:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 909
+      },
+      {
+        "name": "d2",
+        "value": 1224
+      },
+      {
+        "name": "d3",
+        "value": 92
+      },
+      {
+        "name": "d4",
+        "value": 816
+      }
+    ]
+  },
+  {
+    "timestamp": "6:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 926
+      },
+      {
+        "name": "d2",
+        "value": 1227
+      },
+      {
+        "name": "d3",
+        "value": 91
+      },
+      {
+        "name": "d4",
+        "value": 818
+      }
+    ]
+  },
+  {
+    "timestamp": "6:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 942
+      },
+      {
+        "name": "d2",
+        "value": 1230
+      },
+      {
+        "name": "d3",
+        "value": 90
+      },
+      {
+        "name": "d4",
+        "value": 820
+      }
+    ]
+  },
+  {
+    "timestamp": "6:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 958
+      },
+      {
+        "name": "d2",
+        "value": 1233
+      },
+      {
+        "name": "d3",
+        "value": 89
+      },
+      {
+        "name": "d4",
+        "value": 822
+      }
+    ]
+  },
+  {
+    "timestamp": "6:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 973
+      },
+      {
+        "name": "d2",
+        "value": 1236
+      },
+      {
+        "name": "d3",
+        "value": 88
+      },
+      {
+        "name": "d4",
+        "value": 824
+      }
+    ]
+  },
+  {
+    "timestamp": "6:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 989
+      },
+      {
+        "name": "d2",
+        "value": 1239
+      },
+      {
+        "name": "d3",
+        "value": 87
+      },
+      {
+        "name": "d4",
+        "value": 826
+      }
+    ]
+  },
+  {
+    "timestamp": "6:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1004
+      },
+      {
+        "name": "d2",
+        "value": 1242
+      },
+      {
+        "name": "d3",
+        "value": 86
+      },
+      {
+        "name": "d4",
+        "value": 828
+      }
+    ]
+  },
+  {
+    "timestamp": "6:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1019
+      },
+      {
+        "name": "d2",
+        "value": 1245
+      },
+      {
+        "name": "d3",
+        "value": 85
+      },
+      {
+        "name": "d4",
+        "value": 830
+      }
+    ]
+  },
+  {
+    "timestamp": "6:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1034
+      },
+      {
+        "name": "d2",
+        "value": 1248
+      },
+      {
+        "name": "d3",
+        "value": 84
+      },
+      {
+        "name": "d4",
+        "value": 832
+      }
+    ]
+  },
+  {
+    "timestamp": "6:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1049
+      },
+      {
+        "name": "d2",
+        "value": 1251
+      },
+      {
+        "name": "d3",
+        "value": 83
+      },
+      {
+        "name": "d4",
+        "value": 834
+      }
+    ]
+  },
+  {
+    "timestamp": "6:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1063
+      },
+      {
+        "name": "d2",
+        "value": 1254
+      },
+      {
+        "name": "d3",
+        "value": 82
+      },
+      {
+        "name": "d4",
+        "value": 836
+      }
+    ]
+  },
+  {
+    "timestamp": "6:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1077
+      },
+      {
+        "name": "d2",
+        "value": 1257
+      },
+      {
+        "name": "d3",
+        "value": 81
+      },
+      {
+        "name": "d4",
+        "value": 838
+      }
+    ]
+  },
+  {
+    "timestamp": "7:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1091
+      },
+      {
+        "name": "d2",
+        "value": 1260
+      },
+      {
+        "name": "d3",
+        "value": 80
+      },
+      {
+        "name": "d4",
+        "value": 840
+      }
+    ]
+  },
+  {
+    "timestamp": "7:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1104
+      },
+      {
+        "name": "d2",
+        "value": 1263
+      },
+      {
+        "name": "d3",
+        "value": 79
+      },
+      {
+        "name": "d4",
+        "value": 842
+      }
+    ]
+  },
+  {
+    "timestamp": "7:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1117
+      },
+      {
+        "name": "d2",
+        "value": 1266
+      },
+      {
+        "name": "d3",
+        "value": 78
+      },
+      {
+        "name": "d4",
+        "value": 844
+      }
+    ]
+  },
+  {
+    "timestamp": "7:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1130
+      },
+      {
+        "name": "d2",
+        "value": 1269
+      },
+      {
+        "name": "d3",
+        "value": 77
+      },
+      {
+        "name": "d4",
+        "value": 846
+      }
+    ]
+  },
+  {
+    "timestamp": "7:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1143
+      },
+      {
+        "name": "d2",
+        "value": 1272
+      },
+      {
+        "name": "d3",
+        "value": 76
+      },
+      {
+        "name": "d4",
+        "value": 848
+      }
+    ]
+  },
+  {
+    "timestamp": "7:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1155
+      },
+      {
+        "name": "d2",
+        "value": 1275
+      },
+      {
+        "name": "d3",
+        "value": 75
+      },
+      {
+        "name": "d4",
+        "value": 850
+      }
+    ]
+  },
+  {
+    "timestamp": "7:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1167
+      },
+      {
+        "name": "d2",
+        "value": 1278
+      },
+      {
+        "name": "d3",
+        "value": 74
+      },
+      {
+        "name": "d4",
+        "value": 852
+      }
+    ]
+  },
+  {
+    "timestamp": "7:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1179
+      },
+      {
+        "name": "d2",
+        "value": 1281
+      },
+      {
+        "name": "d3",
+        "value": 73
+      },
+      {
+        "name": "d4",
+        "value": 854
+      }
+    ]
+  },
+  {
+    "timestamp": "7:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1190
+      },
+      {
+        "name": "d2",
+        "value": 1284
+      },
+      {
+        "name": "d3",
+        "value": 72
+      },
+      {
+        "name": "d4",
+        "value": 856
+      }
+    ]
+  },
+  {
+    "timestamp": "7:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1201
+      },
+      {
+        "name": "d2",
+        "value": 1287
+      },
+      {
+        "name": "d3",
+        "value": 71
+      },
+      {
+        "name": "d4",
+        "value": 858
+      }
+    ]
+  },
+  {
+    "timestamp": "7:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1212
+      },
+      {
+        "name": "d2",
+        "value": 1290
+      },
+      {
+        "name": "d3",
+        "value": 70
+      },
+      {
+        "name": "d4",
+        "value": 860
+      }
+    ]
+  },
+  {
+    "timestamp": "7:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1222
+      },
+      {
+        "name": "d2",
+        "value": 1293
+      },
+      {
+        "name": "d3",
+        "value": 69
+      },
+      {
+        "name": "d4",
+        "value": 862
+      }
+    ]
+  },
+  {
+    "timestamp": "7:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1232
+      },
+      {
+        "name": "d2",
+        "value": 1296
+      },
+      {
+        "name": "d3",
+        "value": 68
+      },
+      {
+        "name": "d4",
+        "value": 864
+      }
+    ]
+  },
+  {
+    "timestamp": "7:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1242
+      },
+      {
+        "name": "d2",
+        "value": 1299
+      },
+      {
+        "name": "d3",
+        "value": 67
+      },
+      {
+        "name": "d4",
+        "value": 866
+      }
+    ]
+  },
+  {
+    "timestamp": "7:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1251
+      },
+      {
+        "name": "d2",
+        "value": 1302
+      },
+      {
+        "name": "d3",
+        "value": 66
+      },
+      {
+        "name": "d4",
+        "value": 868
+      }
+    ]
+  },
+  {
+    "timestamp": "7:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1260
+      },
+      {
+        "name": "d2",
+        "value": 1305
+      },
+      {
+        "name": "d3",
+        "value": 65
+      },
+      {
+        "name": "d4",
+        "value": 870
+      }
+    ]
+  },
+  {
+    "timestamp": "7:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1269
+      },
+      {
+        "name": "d2",
+        "value": 1308
+      },
+      {
+        "name": "d3",
+        "value": 64
+      },
+      {
+        "name": "d4",
+        "value": 872
+      }
+    ]
+  },
+  {
+    "timestamp": "7:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1277
+      },
+      {
+        "name": "d2",
+        "value": 1311
+      },
+      {
+        "name": "d3",
+        "value": 63
+      },
+      {
+        "name": "d4",
+        "value": 874
+      }
+    ]
+  },
+  {
+    "timestamp": "7:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1285
+      },
+      {
+        "name": "d2",
+        "value": 1314
+      },
+      {
+        "name": "d3",
+        "value": 62
+      },
+      {
+        "name": "d4",
+        "value": 876
+      }
+    ]
+  },
+  {
+    "timestamp": "7:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1292
+      },
+      {
+        "name": "d2",
+        "value": 1317
+      },
+      {
+        "name": "d3",
+        "value": 61
+      },
+      {
+        "name": "d4",
+        "value": 878
+      }
+    ]
+  },
+  {
+    "timestamp": "7:20",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1299
+      },
+      {
+        "name": "d2",
+        "value": 1320
+      },
+      {
+        "name": "d3",
+        "value": 60
+      },
+      {
+        "name": "d4",
+        "value": 880
+      }
+    ]
+  },
+  {
+    "timestamp": "7:21",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1306
+      },
+      {
+        "name": "d2",
+        "value": 1323
+      },
+      {
+        "name": "d3",
+        "value": 59
+      },
+      {
+        "name": "d4",
+        "value": 882
+      }
+    ]
+  },
+  {
+    "timestamp": "7:22",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1313
+      },
+      {
+        "name": "d2",
+        "value": 1326
+      },
+      {
+        "name": "d3",
+        "value": 58
+      },
+      {
+        "name": "d4",
+        "value": 884
+      }
+    ]
+  },
+  {
+    "timestamp": "7:23",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1319
+      },
+      {
+        "name": "d2",
+        "value": 1329
+      },
+      {
+        "name": "d3",
+        "value": 57
+      },
+      {
+        "name": "d4",
+        "value": 886
+      }
+    ]
+  },
+  {
+    "timestamp": "7:24",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1324
+      },
+      {
+        "name": "d2",
+        "value": 1332
+      },
+      {
+        "name": "d3",
+        "value": 56
+      },
+      {
+        "name": "d4",
+        "value": 888
+      }
+    ]
+  },
+  {
+    "timestamp": "7:25",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1329
+      },
+      {
+        "name": "d2",
+        "value": 1335
+      },
+      {
+        "name": "d3",
+        "value": 55
+      },
+      {
+        "name": "d4",
+        "value": 890
+      }
+    ]
+  },
+  {
+    "timestamp": "7:26",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1334
+      },
+      {
+        "name": "d2",
+        "value": 1338
+      },
+      {
+        "name": "d3",
+        "value": 54
+      },
+      {
+        "name": "d4",
+        "value": 892
+      }
+    ]
+  },
+  {
+    "timestamp": "7:27",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1339
+      },
+      {
+        "name": "d2",
+        "value": 1341
+      },
+      {
+        "name": "d3",
+        "value": 53
+      },
+      {
+        "name": "d4",
+        "value": 894
+      }
+    ]
+  },
+  {
+    "timestamp": "7:28",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1343
+      },
+      {
+        "name": "d2",
+        "value": 1344
+      },
+      {
+        "name": "d3",
+        "value": 52
+      },
+      {
+        "name": "d4",
+        "value": 896
+      }
+    ]
+  },
+  {
+    "timestamp": "7:29",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1346
+      },
+      {
+        "name": "d2",
+        "value": 1347
+      },
+      {
+        "name": "d3",
+        "value": 51
+      },
+      {
+        "name": "d4",
+        "value": 898
+      }
+    ]
+  },
+  {
+    "timestamp": "7:30",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1350
+      },
+      {
+        "name": "d2",
+        "value": 1350
+      },
+      {
+        "name": "d3",
+        "value": 50
+      },
+      {
+        "name": "d4",
+        "value": 900
+      }
+    ]
+  },
+  {
+    "timestamp": "7:31",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1352
+      },
+      {
+        "name": "d2",
+        "value": 1353
+      },
+      {
+        "name": "d3",
+        "value": 49
+      },
+      {
+        "name": "d4",
+        "value": 902
+      }
+    ]
+  },
+  {
+    "timestamp": "7:32",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1355
+      },
+      {
+        "name": "d2",
+        "value": 1356
+      },
+      {
+        "name": "d3",
+        "value": 48
+      },
+      {
+        "name": "d4",
+        "value": 904
+      }
+    ]
+  },
+  {
+    "timestamp": "7:33",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1357
+      },
+      {
+        "name": "d2",
+        "value": 1359
+      },
+      {
+        "name": "d3",
+        "value": 47
+      },
+      {
+        "name": "d4",
+        "value": 906
+      }
+    ]
+  },
+  {
+    "timestamp": "7:34",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1358
+      },
+      {
+        "name": "d2",
+        "value": 1362
+      },
+      {
+        "name": "d3",
+        "value": 46
+      },
+      {
+        "name": "d4",
+        "value": 908
+      }
+    ]
+  },
+  {
+    "timestamp": "7:35",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1359
+      },
+      {
+        "name": "d2",
+        "value": 1365
+      },
+      {
+        "name": "d3",
+        "value": 45
+      },
+      {
+        "name": "d4",
+        "value": 910
+      }
+    ]
+  },
+  {
+    "timestamp": "7:36",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1360
+      },
+      {
+        "name": "d2",
+        "value": 1368
+      },
+      {
+        "name": "d3",
+        "value": 44
+      },
+      {
+        "name": "d4",
+        "value": 912
+      }
+    ]
+  },
+  {
+    "timestamp": "7:37",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1360
+      },
+      {
+        "name": "d2",
+        "value": 1371
+      },
+      {
+        "name": "d3",
+        "value": 43
+      },
+      {
+        "name": "d4",
+        "value": 914
+      }
+    ]
+  },
+  {
+    "timestamp": "7:38",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1360
+      },
+      {
+        "name": "d2",
+        "value": 1374
+      },
+      {
+        "name": "d3",
+        "value": 42
+      },
+      {
+        "name": "d4",
+        "value": 916
+      }
+    ]
+  },
+  {
+    "timestamp": "7:39",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1360
+      },
+      {
+        "name": "d2",
+        "value": 1377
+      },
+      {
+        "name": "d3",
+        "value": 41
+      },
+      {
+        "name": "d4",
+        "value": 918
+      }
+    ]
+  },
+  {
+    "timestamp": "7:40",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1359
+      },
+      {
+        "name": "d2",
+        "value": 1380
+      },
+      {
+        "name": "d3",
+        "value": 40
+      },
+      {
+        "name": "d4",
+        "value": 920
+      }
+    ]
+  },
+  {
+    "timestamp": "7:41",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1357
+      },
+      {
+        "name": "d2",
+        "value": 1383
+      },
+      {
+        "name": "d3",
+        "value": 39
+      },
+      {
+        "name": "d4",
+        "value": 922
+      }
+    ]
+  },
+  {
+    "timestamp": "7:42",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1355
+      },
+      {
+        "name": "d2",
+        "value": 1386
+      },
+      {
+        "name": "d3",
+        "value": 38
+      },
+      {
+        "name": "d4",
+        "value": 924
+      }
+    ]
+  },
+  {
+    "timestamp": "7:43",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1353
+      },
+      {
+        "name": "d2",
+        "value": 1389
+      },
+      {
+        "name": "d3",
+        "value": 37
+      },
+      {
+        "name": "d4",
+        "value": 926
+      }
+    ]
+  },
+  {
+    "timestamp": "7:44",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1350
+      },
+      {
+        "name": "d2",
+        "value": 1392
+      },
+      {
+        "name": "d3",
+        "value": 36
+      },
+      {
+        "name": "d4",
+        "value": 928
+      }
+    ]
+  },
+  {
+    "timestamp": "7:45",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1347
+      },
+      {
+        "name": "d2",
+        "value": 1395
+      },
+      {
+        "name": "d3",
+        "value": 35
+      },
+      {
+        "name": "d4",
+        "value": 930
+      }
+    ]
+  },
+  {
+    "timestamp": "7:46",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1343
+      },
+      {
+        "name": "d2",
+        "value": 1398
+      },
+      {
+        "name": "d3",
+        "value": 34
+      },
+      {
+        "name": "d4",
+        "value": 932
+      }
+    ]
+  },
+  {
+    "timestamp": "7:47",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1339
+      },
+      {
+        "name": "d2",
+        "value": 1401
+      },
+      {
+        "name": "d3",
+        "value": 33
+      },
+      {
+        "name": "d4",
+        "value": 934
+      }
+    ]
+  },
+  {
+    "timestamp": "7:48",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1335
+      },
+      {
+        "name": "d2",
+        "value": 1404
+      },
+      {
+        "name": "d3",
+        "value": 32
+      },
+      {
+        "name": "d4",
+        "value": 936
+      }
+    ]
+  },
+  {
+    "timestamp": "7:49",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1330
+      },
+      {
+        "name": "d2",
+        "value": 1407
+      },
+      {
+        "name": "d3",
+        "value": 31
+      },
+      {
+        "name": "d4",
+        "value": 938
+      }
+    ]
+  },
+  {
+    "timestamp": "7:50",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1324
+      },
+      {
+        "name": "d2",
+        "value": 1410
+      },
+      {
+        "name": "d3",
+        "value": 30
+      },
+      {
+        "name": "d4",
+        "value": 940
+      }
+    ]
+  },
+  {
+    "timestamp": "7:51",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1319
+      },
+      {
+        "name": "d2",
+        "value": 1413
+      },
+      {
+        "name": "d3",
+        "value": 29
+      },
+      {
+        "name": "d4",
+        "value": 942
+      }
+    ]
+  },
+  {
+    "timestamp": "7:52",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1312
+      },
+      {
+        "name": "d2",
+        "value": 1416
+      },
+      {
+        "name": "d3",
+        "value": 28
+      },
+      {
+        "name": "d4",
+        "value": 944
+      }
+    ]
+  },
+  {
+    "timestamp": "7:53",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1306
+      },
+      {
+        "name": "d2",
+        "value": 1419
+      },
+      {
+        "name": "d3",
+        "value": 27
+      },
+      {
+        "name": "d4",
+        "value": 946
+      }
+    ]
+  },
+  {
+    "timestamp": "7:54",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1299
+      },
+      {
+        "name": "d2",
+        "value": 1422
+      },
+      {
+        "name": "d3",
+        "value": 26
+      },
+      {
+        "name": "d4",
+        "value": 948
+      }
+    ]
+  },
+  {
+    "timestamp": "7:55",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1291
+      },
+      {
+        "name": "d2",
+        "value": 1425
+      },
+      {
+        "name": "d3",
+        "value": 25
+      },
+      {
+        "name": "d4",
+        "value": 950
+      }
+    ]
+  },
+  {
+    "timestamp": "7:56",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1283
+      },
+      {
+        "name": "d2",
+        "value": 1428
+      },
+      {
+        "name": "d3",
+        "value": 24
+      },
+      {
+        "name": "d4",
+        "value": 952
+      }
+    ]
+  },
+  {
+    "timestamp": "7:57",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1275
+      },
+      {
+        "name": "d2",
+        "value": 1431
+      },
+      {
+        "name": "d3",
+        "value": 23
+      },
+      {
+        "name": "d4",
+        "value": 954
+      }
+    ]
+  },
+  {
+    "timestamp": "7:58",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1266
+      },
+      {
+        "name": "d2",
+        "value": 1434
+      },
+      {
+        "name": "d3",
+        "value": 22
+      },
+      {
+        "name": "d4",
+        "value": 956
+      }
+    ]
+  },
+  {
+    "timestamp": "7:59",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1256
+      },
+      {
+        "name": "d2",
+        "value": 1437
+      },
+      {
+        "name": "d3",
+        "value": 21
+      },
+      {
+        "name": "d4",
+        "value": 958
+      }
+    ]
+  },
+  {
+    "timestamp": "8:00",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1247
+      },
+      {
+        "name": "d2",
+        "value": 1440
+      },
+      {
+        "name": "d3",
+        "value": 20
+      },
+      {
+        "name": "d4",
+        "value": 960
+      }
+    ]
+  },
+  {
+    "timestamp": "8:01",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1236
+      },
+      {
+        "name": "d2",
+        "value": 1443
+      },
+      {
+        "name": "d3",
+        "value": 19
+      },
+      {
+        "name": "d4",
+        "value": 962
+      }
+    ]
+  },
+  {
+    "timestamp": "8:02",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1226
+      },
+      {
+        "name": "d2",
+        "value": 1446
+      },
+      {
+        "name": "d3",
+        "value": 18
+      },
+      {
+        "name": "d4",
+        "value": 964
+      }
+    ]
+  },
+  {
+    "timestamp": "8:03",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1215
+      },
+      {
+        "name": "d2",
+        "value": 1449
+      },
+      {
+        "name": "d3",
+        "value": 17
+      },
+      {
+        "name": "d4",
+        "value": 966
+      }
+    ]
+  },
+  {
+    "timestamp": "8:04",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1203
+      },
+      {
+        "name": "d2",
+        "value": 1452
+      },
+      {
+        "name": "d3",
+        "value": 16
+      },
+      {
+        "name": "d4",
+        "value": 968
+      }
+    ]
+  },
+  {
+    "timestamp": "8:05",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1191
+      },
+      {
+        "name": "d2",
+        "value": 1455
+      },
+      {
+        "name": "d3",
+        "value": 15
+      },
+      {
+        "name": "d4",
+        "value": 970
+      }
+    ]
+  },
+  {
+    "timestamp": "8:06",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1179
+      },
+      {
+        "name": "d2",
+        "value": 1458
+      },
+      {
+        "name": "d3",
+        "value": 14
+      },
+      {
+        "name": "d4",
+        "value": 972
+      }
+    ]
+  },
+  {
+    "timestamp": "8:07",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1166
+      },
+      {
+        "name": "d2",
+        "value": 1461
+      },
+      {
+        "name": "d3",
+        "value": 13
+      },
+      {
+        "name": "d4",
+        "value": 974
+      }
+    ]
+  },
+  {
+    "timestamp": "8:08",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1153
+      },
+      {
+        "name": "d2",
+        "value": 1464
+      },
+      {
+        "name": "d3",
+        "value": 12
+      },
+      {
+        "name": "d4",
+        "value": 976
+      }
+    ]
+  },
+  {
+    "timestamp": "8:09",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1140
+      },
+      {
+        "name": "d2",
+        "value": 1467
+      },
+      {
+        "name": "d3",
+        "value": 11
+      },
+      {
+        "name": "d4",
+        "value": 978
+      }
+    ]
+  },
+  {
+    "timestamp": "8:10",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1126
+      },
+      {
+        "name": "d2",
+        "value": 1470
+      },
+      {
+        "name": "d3",
+        "value": 10
+      },
+      {
+        "name": "d4",
+        "value": 980
+      }
+    ]
+  },
+  {
+    "timestamp": "8:11",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1111
+      },
+      {
+        "name": "d2",
+        "value": 1473
+      },
+      {
+        "name": "d3",
+        "value": 9
+      },
+      {
+        "name": "d4",
+        "value": 982
+      }
+    ]
+  },
+  {
+    "timestamp": "8:12",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1096
+      },
+      {
+        "name": "d2",
+        "value": 1476
+      },
+      {
+        "name": "d3",
+        "value": 8
+      },
+      {
+        "name": "d4",
+        "value": 984
+      }
+    ]
+  },
+  {
+    "timestamp": "8:13",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1081
+      },
+      {
+        "name": "d2",
+        "value": 1479
+      },
+      {
+        "name": "d3",
+        "value": 7
+      },
+      {
+        "name": "d4",
+        "value": 986
+      }
+    ]
+  },
+  {
+    "timestamp": "8:14",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1066
+      },
+      {
+        "name": "d2",
+        "value": 1482
+      },
+      {
+        "name": "d3",
+        "value": 6
+      },
+      {
+        "name": "d4",
+        "value": 988
+      }
+    ]
+  },
+  {
+    "timestamp": "8:15",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1050
+      },
+      {
+        "name": "d2",
+        "value": 1485
+      },
+      {
+        "name": "d3",
+        "value": 5
+      },
+      {
+        "name": "d4",
+        "value": 990
+      }
+    ]
+  },
+  {
+    "timestamp": "8:16",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1033
+      },
+      {
+        "name": "d2",
+        "value": 1488
+      },
+      {
+        "name": "d3",
+        "value": 4
+      },
+      {
+        "name": "d4",
+        "value": 992
+      }
+    ]
+  },
+  {
+    "timestamp": "8:17",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 1016
+      },
+      {
+        "name": "d2",
+        "value": 1491
+      },
+      {
+        "name": "d3",
+        "value": 3
+      },
+      {
+        "name": "d4",
+        "value": 994
+      }
+    ]
+  },
+  {
+    "timestamp": "8:18",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 999
+      },
+      {
+        "name": "d2",
+        "value": 1494
+      },
+      {
+        "name": "d3",
+        "value": 2
+      },
+      {
+        "name": "d4",
+        "value": 996
+      }
+    ]
+  },
+  {
+    "timestamp": "8:19",
+    "dataset": [
+      {
+        "name": "d1",
+        "value": 982
+      },
+      {
+        "name": "d2",
+        "value": 1497
+      },
+      {
+        "name": "d3",
+        "value": 1
+      },
+      {
+        "name": "d4",
+        "value": 998
+      }
+    ]
+  }
+]
