@@ -15,7 +15,7 @@
         font-family: Helvetica; ; 
         }
 
-	text {
+	text, label {
 		font-family: Helvetica;
         color: var(--var-color-grey);
 	}
@@ -32,38 +32,81 @@
 <body>
   <script>
 
-    var margin = {top: 40, right: 30, bottom: 30, left: 50},
+    const margin = {top: 40, right: 30, bottom: 30, left: 50},
         width = 460 - margin.left - margin.right,
         height = 320 - margin.top - margin.bottom;
 
-    var greyColor = "#898989";
-    var barColor = d3.interpolateInferno(0.4);
-    var highlightColor = d3.interpolateInferno(0.3);
+    const greyColor = "#898989";
+    const barColor = d3.interpolateInferno(0.4);
+    const highlightColor = d3.interpolateInferno(0.3);
 
-    var formatPercent = d3.format("");
+    const formatPercent = d3.format("");
 
-    var svg = d3.select("body").append("svg")
+    const containerSelector = "body";
+    const timerLabelId = "current-time";
+    const configBoxClass = "config";
+    const configTimeRangeId = "config-range-time";
+    const configPlayBtnId = "config-play";
+    const configPlaySpeedRangeId = "config-range-play-speed";
+
+    const svg = d3.select(containerSelector).append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
     .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.select("body").append("text")
-        .attr("class", "time");
+    d3.select(containerSelector).append("text")
+        .attr("id", timerLabelId);
+    const configBox = d3.select(containerSelector).append("div")
+        .attr("class", configBoxClass);
+    configBox.append("label")
+        .html("Pt in time");
+    configBox.append("input")
+        .attr("id", configTimeRangeId)
+        .attr("type", "range")
+        .attr("min", 0)
+        .attr("max", 100)
+        .attr("value", 0);
+    configBox.append("button")
+        .attr("id", configPlayBtnId)
+        .attr("class", "btn")
+        .html("Stop");
+    configBox.append("br");
+    configBox.append("label")
+        .html("Speed of time")
+    configBox.append("input")
+        .attr("id", configPlaySpeedRangeId)
+        .attr("type", "range")
+        .attr("min", 0)
+        .attr("max", 399)
+        .attr("value", 350);
 
-    var x = d3.scaleBand().range([0, width]).padding(0.4);
-    var y = d3.scaleLinear().range([height, 0]);
+    const x = d3.scaleBand().range([0, width]).padding(0.4);
+    const y = d3.scaleLinear().range([height, 0]);
 
-    var xAxis = d3.axisBottom(x).tickSize([]).tickPadding(10);
-    var yAxis = d3.axisLeft(y).tickFormat(formatPercent);
+    const xAxis = d3.axisBottom(x).tickSize([]).tickPadding(10);
+    const yAxis = d3.axisLeft(y).tickFormat(formatPercent);
 
     d3.json("/public/data/sample-data.json").then(function(data) {
         visualise(data);
     });
 
     function visualise(timeSeriesData) {
-        var dataset = timeSeriesData[0].dataset;
-        var maxValue = d3.max(timeSeriesData,  d => { return d3.max(d.dataset,  d2 => { return d2.value; }); });
+        let dataset = timeSeriesData[0].dataset;
+        let maxValue = d3.max(timeSeriesData,  d => { return d3.max(d.dataset,  d2 => { return d2.value; }); });
+
+        d3.select("#"+configTimeRangeId)
+            .attr("max", timeSeriesData.length);
+        document.getElementById(configTimeRangeId).oninput = (e) => {
+            currentTimePeriodIdx = e.currentTarget.value;
+            autoUpdateSwitch(false);
+        };
+        document.getElementById(configPlayBtnId).onclick = (e) => {
+            autoUpdateSwitch(isAutoUpdatePaused == true);
+        };
+        document.getElementById(configPlaySpeedRangeId).oninput = (e) => {
+            transitionTime = 400 - e.currentTarget.value;
+        };
 
         x.domain(dataset.map( d => { return d.name; }));
         y.domain([0, maxValue]);
@@ -106,16 +149,29 @@
             .attr("y",  d => { return y(d.value); })
             .attr("dy", "-.7em");
 
-        var counter = 0;
-        var transitionTime = 50;
-        function updateData() {
-            if (counter >= timeSeriesData.length) {
+        let currentTimePeriodIdx = 0;
+        let transitionTime = 50;
+        let isAutoUpdatePaused = false;
+        let latestAutoUpdateRunNumber = 0;
+        function updateDataCallback(runNumber) {
+            if (runNumber != latestAutoUpdateRunNumber) {
                 return;
             }
-            d3.select(".time")
-                .text(timeSeriesData[counter].timestamp);
-            dataset = timeSeriesData[counter].dataset;
-            var barD = svg.selectAll(".bar")
+            if (isAutoUpdatePaused == true) {
+                return;
+            }
+            updateData(runNumber);
+            currentTimePeriodIdx++;
+        }
+
+        function updateData(runNumber) {
+            if (endOfTimeReached()) {
+                return;
+            }
+            document.getElementById(timerLabelId).innerText = timeSeriesData[currentTimePeriodIdx].timestamp;
+            dataset = timeSeriesData[currentTimePeriodIdx].dataset;
+            document.getElementById(configTimeRangeId).value = currentTimePeriodIdx;
+            const barD = svg.selectAll(".bar")
                 .data(dataset, d => { return d.name; });
             barD.enter().append().merge(barD)
                 .transition()
@@ -127,18 +183,41 @@
                     return height - y(d.value); 
                 });
 
-            var labelD = svg.selectAll(".label")        
+            const labelD = svg.selectAll(".label")        
                 .data(dataset, d => { return d.name; });
             labelD.enter().append().merge(labelD)
                 .transition()
                 .duration(transitionTime)
                 .text( d => { return formatPercent(d.value); })
                 .attr("y",  d => { return y(d.value); })
-                .attr("dy", "-.7em")
-                .on("end", updateData);
-            counter++;
+                .attr("dy", "-.7em");
+            
+            setTimeout(() => {
+                updateDataCallback(runNumber);
+            }, transitionTime);
         }
-        updateData();
+
+        function endOfTimeReached() {
+            return currentTimePeriodIdx >= timeSeriesData.length;
+        }
+
+        function autoUpdateSwitch(switchOn) {
+            if (switchOn == true) {
+                document.getElementById(configPlayBtnId).innerText = "Stop";
+                if (endOfTimeReached()) {
+                    currentTimePeriodIdx = 0;
+                }
+                isAutoUpdatePaused = false;
+                latestAutoUpdateRunNumber++;
+                updateDataCallback(latestAutoUpdateRunNumber);
+            } else {
+                document.getElementById(configPlayBtnId).innerText = "Play";
+                isAutoUpdatePaused = true;
+                updateData();
+            }
+        }
+
+        updateData(0);
     }
   </script>
 </body>
