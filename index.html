@@ -87,7 +87,7 @@
     const xAxis = d3.axisBottom(x).tickSize([]).tickPadding(10);
     const yAxis = d3.axisLeft(y).tickFormat(formatPercent);
 
-    d3.json("./public/data/sample-data.json").then(function(data) {
+    d3.json("public/data/sample-data.json").then(function(data) {
         visualise(data);
     });
 
